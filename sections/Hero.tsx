@@ -1,0 +1,31 @@
+"use client";
+
+import { CtaButton } from "@/components/CtaButton";
+import { useI18n } from "@/lib/i18n-context";
+
+export function Hero() {
+  const { t } = useI18n();
+
+  return (
+    <section className="relative flex min-h-[80vh] items-center justify-center overflow-hidden">
+      <div
+        className="absolute inset-0 bg-cover bg-center bg-no-repeat"
+        style={{ backgroundImage: "url('/images/hero.jpg')" }}
+        aria-hidden="true"
+      />
+      <div className="absolute inset-0 bg-gradient-to-r from-slate-900/80 via-slate-900/50 to-slate-900/30 dark:from-slate-950/90 dark:via-slate-950/70 dark:to-slate-950/50" />
+
+      <div className="relative z-10 mx-auto max-w-4xl px-4 text-center sm:px-6 lg:px-8">
+        <h1 className="mb-6 text-4xl font-extrabold leading-tight tracking-tight text-white sm:text-5xl md:text-6xl">
+          {t("hero.headline") as string}
+        </h1>
+        <p className="mx-auto mb-8 max-w-2xl text-lg text-slate-100 sm:text-xl">
+          {t("hero.subtitle") as string}
+        </p>
+        <CtaButton variant="primary" className="px-8 py-4 text-base">
+          {t("hero.cta") as string}
+        </CtaButton>
+      </div>
+    </section>
+  );
+}

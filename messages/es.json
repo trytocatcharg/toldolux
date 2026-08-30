@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "title": "Toldo Lux | Toldos, Pérgolas y Protección Solar en Segur de Calafell",
+    "description": "Empresa especializada en toldos, pérgolas bioclimáticas y protección solar a medida en Segur de Calafell. Fabricación e instalación de calidad con asesoramiento técnico gratuito.",
+    "ogTitle": "Toldo Lux - Protección solar a medida en Segur de Calafell",
+    "ogDescription": "Toldos, pérgolas bioclimáticas y protección solar para hogares y comunidades. Solicita tu presupuesto sin compromiso."
+  },
+  "navbar": {
+    "brand": "Toldo Lux",
+    "home": "Inicio",
+    "services": "Servicios",
+    "gallery": "Galería",
+    "contact": "Contacto",
+    "cta": "Presupuesto"
+  },
+  "hero": {
+    "headline": "Protege tu terraza con estilo y durabilidad",
+    "subtitle": "Toldos, pérgolas bioclimáticas y protección solar a medida en Segur de Calafell. Diseño moderno, materiales de alta calidad e instalación profesional.",
+    "cta": "Solicitar presupuesto"
+  },
+  "services": {
+    "title": "Nuestros servicios",
+    "subtitle": "Soluciones de protección solar personalizadas para hogares, terrazas y comunidades.",
+    "awnings": {
+      "title": "Toldos a medida",
+      "description": "Toldos extensibles, cofre, brazos invisibles y verticales. Fabricación propia con lonas técnicas de alta resistencia UV."
+    },
+    "pergolas": {
+      "title": "Pérgolas bioclimáticas",
+      "description": "Pérgolas de aluminio con lamas orientables que regulan luz, sombra y ventilación de forma inteligente."
+    },
+    "solarProtection": {
+      "title": "Protección solar",
+      "description": "Toldos para fachadas, balcones, terrazas y zonas comunes. Confort térmico y ahorro energético garantizado."
+    }
+  },
+  "gallery": {
+    "title": "Galería de trabajos",
+    "subtitle": "Algunos de nuestros proyectos de toldos y pérgolas realizados en la zona de Segur de Calafell."
+  },
+  "footer": {
+    "company": "Toldo Lux",
+    "tagline": "Toldos, pérgolas y protección solar en Segur de Calafell.",
+    "contact": "Contacto",
+    "address": "Segur de Calafell, Tarragona",
+    "phone": "+34 600 000 000",
+    "email": "info@toldo-lux.com",
+    "rights": "Todos los derechos reservados."
+  }
+}

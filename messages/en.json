@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "title": "Toldo Lux | Awnings, Pergolas and Sun Protection in Segur de Calafell",
+    "description": "Specialized company in custom awnings, bioclimatic pergolas and sun protection in Segur de Calafell. Quality manufacturing and installation with free technical advice.",
+    "ogTitle": "Toldo Lux - Custom sun protection in Segur de Calafell",
+    "ogDescription": "Awnings, bioclimatic pergolas and sun protection for homes and communities. Request your free quote."
+  },
+  "navbar": {
+    "brand": "Toldo Lux",
+    "home": "Home",
+    "services": "Services",
+    "gallery": "Gallery",
+    "contact": "Contact",
+    "cta": "Get a quote"
+  },
+  "hero": {
+    "headline": "Protect your terrace with style and durability",
+    "subtitle": "Custom awnings, bioclimatic pergolas and sun protection in Segur de Calafell. Modern design, high-quality materials and professional installation.",
+    "cta": "Request a quote"
+  },
+  "services": {
+    "title": "Our services",
+    "subtitle": "Custom sun protection solutions for homes, terraces and communities.",
+    "awnings": {
+      "title": "Custom awnings",
+      "description": "Extendable, cassette, invisible arm and vertical awnings. In-house manufacturing with high UV-resistant technical fabrics."
+    },
+    "pergolas": {
+      "title": "Bioclimatic pergolas",
+      "description": "Aluminum pergolas with adjustable slats that intelligently regulate light, shade and ventilation."
+    },
+    "solarProtection": {
+      "title": "Sun protection",
+      "description": "Awnings for facades, balconies, terraces and common areas. Guaranteed thermal comfort and energy savings."
+    }
+  },
+  "gallery": {
+    "title": "Project gallery",
+    "subtitle": "Some of our awning and pergola projects completed in the Segur de Calafell area."
+  },
+  "footer": {
+    "company": "Toldo Lux",
+    "tagline": "Awnings, pergolas and sun protection in Segur de Calafell.",
+    "contact": "Contact",
+    "address": "Segur de Calafell, Tarragona",
+    "phone": "+34 600 000 000",
+    "email": "info@toldo-lux.com",
+    "rights": "All rights reserved."
+  }
+}

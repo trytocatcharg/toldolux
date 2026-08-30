@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: 255 255 255;
+  --foreground: 15 23 42;
+}
+
+.dark {
+  --background: 15 23 42;
+  --foreground: 248 250 252;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  color: rgb(var(--foreground));
+  background-color: rgb(var(--background));
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+/* react-image-gallery dark mode overrides */
+.dark .image-gallery-svg {
+  fill: #f8fafc;
+}
+
+.dark .image-gallery-thumbnail.active,
+.dark .image-gallery-thumbnail:focus,
+.dark .image-gallery-thumbnail:hover {
+  border-color: #3b82f6;
+}
