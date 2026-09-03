@@ -52,10 +52,10 @@ export function Gallery() {
     <section id="gallery" className="py-20">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="mb-12 text-center">
-          <h2 className="mb-4 text-3xl font-bold text-slate-900 dark:text-white sm:text-4xl">
+          <h2 className="mb-4 text-3xl font-bold text-primary-900 dark:text-white sm:text-4xl">
             {t("gallery.title") as string}
           </h2>
-          <p className="mx-auto max-w-2xl text-lg text-slate-600 dark:text-slate-300">
+          <p className="mx-auto max-w-2xl text-lg text-primary-600 dark:text-primary-200">
             {t("gallery.subtitle") as string}
           </p>
         </div>

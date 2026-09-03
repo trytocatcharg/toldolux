@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import Image from "next/image";
 import { useParams } from "next/navigation";
 import { Menu, X } from "lucide-react";
 import { ThemeToggle } from "./ThemeToggle";
@@ -23,10 +24,17 @@ export function Navbar() {
   ];
 
   return (
-    <header className="sticky top-0 z-50 w-full border-b border-slate-200 bg-white/80 backdrop-blur-md dark:border-slate-700 dark:bg-slate-900/80">
-      <nav className="mx-auto flex max-w-7xl items-center justify-between px-4 py-4 sm:px-6 lg:px-8">
-        <a href="#" className="text-2xl font-extrabold tracking-tight text-primary-700 dark:text-primary-400">
-          {t("navbar.brand") as string}
+    <header className="sticky top-0 z-50 w-full border-b border-primary-700 bg-primary-800 backdrop-blur-md dark:border-primary-900 dark:bg-primary-900/95">
+      <nav className="mx-auto flex max-w-7xl items-center justify-between px-4 py-3 sm:px-6 lg:px-8">
+        <a href="#" className="flex items-center">
+          <Image
+            src="/images/header.png"
+            alt="Toldo Lux"
+            width={140}
+            height={50}
+            className="h-auto w-32"
+            priority
+          />
         </a>
 
         <div className="hidden items-center gap-8 md:flex">
@@ -34,7 +42,7 @@ export function Navbar() {
             <a
               key={link.label}
               href={link.href}
-              className="text-sm font-medium text-slate-600 transition-colors hover:text-primary-600 dark:text-slate-300 dark:hover:text-primary-400"
+              className="text-sm font-medium text-primary-100 transition-colors hover:text-accent-400"
             >
               {link.label}
             </a>
@@ -53,21 +61,21 @@ export function Navbar() {
           aria-label={mobileOpen ? "Cerrar menú" : "Abrir menú"}
         >
           {mobileOpen ? (
-            <X className="h-6 w-6 text-slate-700 dark:text-slate-200" />
+            <X className="h-6 w-6 text-primary-100" />
           ) : (
-            <Menu className="h-6 w-6 text-slate-700 dark:text-slate-200" />
+            <Menu className="h-6 w-6 text-primary-100" />
           )}
         </button>
       </nav>
 
       {mobileOpen && (
-        <div className="border-t border-slate-200 bg-white px-4 py-4 dark:border-slate-700 dark:bg-slate-900 md:hidden">
+        <div className="border-t border-primary-700 bg-primary-800 px-4 py-4 md:hidden">
           <div className="flex flex-col gap-4">
             {links.map((link) => (
               <a
                 key={link.label}
                 href={link.href}
-                className="text-base font-medium text-slate-700 dark:text-slate-200"
+                className="text-base font-medium text-primary-100"
                 onClick={() => setMobileOpen(false)}
               >
                 {link.label}

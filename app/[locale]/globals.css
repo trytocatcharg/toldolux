@@ -3,12 +3,12 @@
 @tailwind utilities;
 
 :root {
-  --background: 255 255 255;
-  --foreground: 15 23 42;
+  --background: 248 250 252;
+  --foreground: 49 56 65;
 }
 
 .dark {
-  --background: 15 23 42;
+  --background: 49 56 65;
   --foreground: 248 250 252;
 }
 
@@ -35,5 +35,5 @@ body {
 .dark .image-gallery-thumbnail.active,
 .dark .image-gallery-thumbnail:focus,
 .dark .image-gallery-thumbnail:hover {
-  border-color: #3b82f6;
+  border-color: #fa501e;
 }

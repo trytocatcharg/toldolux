@@ -14,7 +14,7 @@ export function ThemeToggle() {
     return (
       <button
         aria-label="Cambiar tema"
-        className="rounded-full p-2 text-slate-600 transition-colors hover:bg-slate-100 dark:text-slate-300 dark:hover:bg-slate-800"
+        className="rounded-full p-2 text-primary-100 transition-colors hover:bg-primary-700"
       >
         <Sun className="h-5 w-5" />
       </button>
@@ -25,7 +25,7 @@ export function ThemeToggle() {
     <button
       aria-label="Cambiar tema"
       onClick={() => setTheme(theme === "dark" ? "light" : "dark")}
-      className="rounded-full p-2 text-slate-600 transition-colors hover:bg-slate-100 dark:text-slate-300 dark:hover:bg-slate-800"
+      className="rounded-full p-2 text-primary-100 transition-colors hover:bg-primary-700"
     >
       {theme === "dark" ? <Sun className="h-5 w-5" /> : <Moon className="h-5 w-5" />}
     </button>
