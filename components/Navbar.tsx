@@ -28,7 +28,7 @@ export function Navbar() {
       <nav className="mx-auto flex max-w-7xl items-center justify-between px-4 py-3 sm:px-6 lg:px-8">
         <a href="#" className="flex items-center">
           <Image
-            src="/images/header.png"
+            src="/images/header-removebg.png"
             alt="Toldo Lux"
             width={140}
             height={50}
