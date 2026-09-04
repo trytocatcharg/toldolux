@@ -26,7 +26,7 @@ export function Services() {
   ];
 
   return (
-    <section id="services" className="bg-primary-50 py-20 dark:bg-primary-900">
+    <section id="services" className="bg-primary-50 py-20 dark:bg-primary-900 orange:bg-orange-50/60">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="mb-12 text-center">
           <h2 className="mb-4 text-3xl font-bold text-primary-900 dark:text-white sm:text-4xl">

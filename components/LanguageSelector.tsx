@@ -22,7 +22,7 @@ export function LanguageSelector({ currentLocale }: { currentLocale: Locale }) {
           className={`rounded px-2 py-1 text-sm font-medium transition-colors ${
             currentLocale === locale
               ? "bg-accent-500 text-white"
-              : "text-primary-100 hover:bg-primary-700"
+              : "text-primary-100 hover:bg-primary-700 orange:text-orange-100 orange:hover:bg-orange-700"
           }`}
         >
           {labels[locale]}

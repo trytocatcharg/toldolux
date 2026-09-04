@@ -12,6 +12,13 @@
   --foreground: 248 250 252;
 }
 
+.orange {
+  /* orange-50 at ~60% over white: keeps the warm peach without the saturation
+     of full-strength orange-50 (previously rejected as page background) */
+  --background: 255 223 185;
+  --foreground: 0 18 27; /* orange-950 */
+}
+
 html {
   scroll-behavior: smooth;
 }
@@ -35,5 +42,16 @@ body {
 .dark .image-gallery-thumbnail.active,
 .dark .image-gallery-thumbnail:focus,
 .dark .image-gallery-thumbnail:hover {
+  border-color: #fa501e;
+}
+
+/* react-image-gallery orange theme overrides */
+.orange .image-gallery-svg {
+  fill: #00121b;
+}
+
+.orange .image-gallery-thumbnail.active,
+.orange .image-gallery-thumbnail:focus,
+.orange .image-gallery-thumbnail:hover {
   border-color: #fa501e;
 }
