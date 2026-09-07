@@ -8,6 +8,7 @@
   "navbar": {
     "brand": "Toldo Lux",
     "home": "Inici",
+    "products": "Productes",
     "services": "Serveis",
     "gallery": "Galeria",
     "contact": "Contacte",
@@ -32,6 +33,49 @@
     "solarProtection": {
       "title": "Protecció solar",
       "description": "Toldos per a façanes, balcons, terrasses i zones comunes. Confort tèrmic i estalvi energètic garantit."
+    }
+  },
+  "products": {
+    "title": "Els nostres productes",
+    "subtitle": "Solucions de protecció solar fetes a mida: toldos, pèrgoles i sistemes tècnics per a cada espai.",
+    "cta": "Sol·licitar pressupost",
+    "items": {
+      "pergolas": {
+        "name": "Pèrgoles bioclimàtiques",
+        "description": "Pèrgola d'alumini amb lames orientables que regulen llum, ombra i ventilació."
+      },
+      "brazoArticulado": {
+        "name": "Toldo braç articulat",
+        "description": "Toldo extensible amb braços articulats de gran projecció; ideal per a terrasses i balcons."
+      },
+      "cofre": {
+        "name": "Toldo cofre",
+        "description": "La lona queda totalment protegida dins del cofre en recollir-se; màxima durabilitat."
+      },
+      "corredero": {
+        "name": "Toldo correder",
+        "description": "Lona tensada amb guies laterals; perfecte per a terrasses i tancaments."
+      },
+      "puntoRecto": {
+        "name": "Toldo punt recte",
+        "description": "Toldo de caiguda recta per a finestres i balcons; senzill, discret i resistent."
+      },
+      "stor": {
+        "name": "Toldo stor",
+        "description": "Sistema plegable amb braços rígids; solució compacta per a finestres."
+      },
+      "vertical": {
+        "name": "Toldos verticals",
+        "description": "Cortina vertical per a finestrals i tancaments; protecció contra el sol i el vent."
+      },
+      "cortinas": {
+        "name": "Cortines d'interior",
+        "description": "Cortines tècniques d'interior per al control de llum i privacitat a qualsevol estança."
+      },
+      "mosquiteros": {
+        "name": "Mosquiteres",
+        "description": "Mosquiteres enrotllables i fixes per a finestres i portes, amb malla d'alta transparència."
+      }
     }
   },
   "gallery": {

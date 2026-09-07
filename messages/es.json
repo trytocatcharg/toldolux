@@ -8,6 +8,7 @@
   "navbar": {
     "brand": "Toldo Lux",
     "home": "Inicio",
+    "products": "Productos",
     "services": "Servicios",
     "gallery": "Galería",
     "contact": "Contacto",
@@ -32,6 +33,49 @@
     "solarProtection": {
       "title": "Protección solar",
       "description": "Toldos para fachadas, balcones, terrazas y zonas comunes. Confort térmico y ahorro energético garantizado."
+    }
+  },
+  "products": {
+    "title": "Nuestros productos",
+    "subtitle": "Soluciones de protección solar fabricadas a medida: toldos, pérgolas y sistemas técnicos para cada espacio.",
+    "cta": "Solicitar presupuesto",
+    "items": {
+      "pergolas": {
+        "name": "Pérgolas bioclimáticas",
+        "description": "Pérgola de aluminio con lamas orientables que regulan luz, sombra y ventilación."
+      },
+      "brazoArticulado": {
+        "name": "Toldo brazo articulado",
+        "description": "Toldo extensible con brazos de gran proyección; ideal para terrazas y balcones."
+      },
+      "cofre": {
+        "name": "Toldo cofre",
+        "description": "La lona queda totalmente protegida dentro del cofre al recogerse; máxima durabilidad."
+      },
+      "corredero": {
+        "name": "Toldo corredero",
+        "description": "Lona tensada con guías laterales; perfecto para terrazas y cerramientos."
+      },
+      "puntoRecto": {
+        "name": "Toldo punto recto",
+        "description": "Toldo de caída recta para ventanas y balcones; sencillo, discreto y resistente."
+      },
+      "stor": {
+        "name": "Toldo stor",
+        "description": "Sistema plegable con brazos rígidos; solución compacta para ventanas."
+      },
+      "vertical": {
+        "name": "Toldos verticales",
+        "description": "Cortina vertical para ventanales y cerramientos; protección frente a sol y viento."
+      },
+      "cortinas": {
+        "name": "Cortinas de interior",
+        "description": "Cortinas técnicas de interior para control de luz y privacidad en cualquier estancia."
+      },
+      "mosquiteros": {
+        "name": "Mosquiteros",
+        "description": "Mosquiteros enrollables y fijos para ventanas y puertas, con malla de alta transparencia."
+      }
     }
   },
   "gallery": {

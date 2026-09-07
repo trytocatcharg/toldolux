@@ -18,6 +18,7 @@ export function Navbar() {
 
   const links = [
     { label: t("navbar.home") as string, href: "#" },
+    { label: t("navbar.products") as string, href: "#products" },
     { label: t("navbar.services") as string, href: "#services" },
     { label: t("navbar.gallery") as string, href: "#gallery" },
     { label: t("navbar.contact") as string, href: "#contact" },
@@ -85,7 +86,9 @@ export function Navbar() {
               <LanguageSelector currentLocale={locale} />
               <ThemeToggle />
             </div>
-            <CtaButton className="w-full">{t("navbar.cta") as string}</CtaButton>
+            <CtaButton className="w-full">
+              {t("navbar.cta") as string}
+            </CtaButton>
           </div>
         </div>
       )}

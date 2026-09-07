@@ -8,6 +8,7 @@
   "navbar": {
     "brand": "Toldo Lux",
     "home": "Home",
+    "products": "Products",
     "services": "Services",
     "gallery": "Gallery",
     "contact": "Contact",
@@ -32,6 +33,49 @@
     "solarProtection": {
       "title": "Sun protection",
       "description": "Awnings for facades, balconies, terraces and common areas. Guaranteed thermal comfort and energy savings."
+    }
+  },
+  "products": {
+    "title": "Our products",
+    "subtitle": "Custom-made sun protection solutions: awnings, pergolas and technical systems for every space.",
+    "cta": "Request a quote",
+    "items": {
+      "pergolas": {
+        "name": "Bioclimatic pergolas",
+        "description": "Aluminum pergola with adjustable slats that regulate light, shade and ventilation."
+      },
+      "brazoArticulado": {
+        "name": "Articulated arm awning",
+        "description": "Extendable awning with articulated arms and large projection; ideal for terraces and balconies."
+      },
+      "cofre": {
+        "name": "Cassette awning",
+        "description": "The fabric is fully protected inside the cassette when retracted; maximum durability."
+      },
+      "corredero": {
+        "name": "Sliding awning",
+        "description": "Tensioned fabric with side guides; perfect for terraces and enclosures."
+      },
+      "puntoRecto": {
+        "name": "Straight drop awning",
+        "description": "Straight-fall awning for windows and balconies; simple, discreet and sturdy."
+      },
+      "stor": {
+        "name": "Folding arm awning",
+        "description": "Folding system with rigid arms; a compact solution for windows."
+      },
+      "vertical": {
+        "name": "Vertical awnings",
+        "description": "Vertical curtain for windows and enclosures; protection against sun and wind."
+      },
+      "cortinas": {
+        "name": "Indoor curtains",
+        "description": "Technical indoor curtains for light control and privacy in any room."
+      },
+      "mosquiteros": {
+        "name": "Fly screens",
+        "description": "Roller and fixed fly screens for windows and doors, with high-transparency mesh."
+      }
     }
   },
   "gallery": {

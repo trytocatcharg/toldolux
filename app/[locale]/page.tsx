@@ -1,6 +1,7 @@
 import { Navbar } from "@/components/Navbar";
 import { Hero } from "@/sections/Hero";
 import { Services } from "@/sections/Services";
+import { Products } from "@/sections/Products";
 import { Gallery } from "@/sections/Gallery";
 import { Footer } from "@/sections/Footer";
 import { JsonLd } from "@/components/JsonLd";
@@ -13,6 +14,7 @@ export default function Home() {
       <main>
         <Hero />
         <Services />
+        <Products />
         <Gallery />
       </main>
       <Footer />
