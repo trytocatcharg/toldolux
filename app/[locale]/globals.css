@@ -16,7 +16,7 @@
   /* orange-50 at ~60% over white: keeps the warm peach without the saturation
      of full-strength orange-50 (previously rejected as page background) */
   --background: 255 223 185;
-  --foreground: 0 18 27; /* orange-950 */
+  --foreground: 47 19 0; /* near orange-950 (#2f1300) */
 }
 
 html {
@@ -47,11 +47,11 @@ body {
 
 /* react-image-gallery orange theme overrides */
 .orange .image-gallery-svg {
-  fill: #00121b;
+  fill: #2f1300;
 }
 
 .orange .image-gallery-thumbnail.active,
 .orange .image-gallery-thumbnail:focus,
 .orange .image-gallery-thumbnail:hover {
-  border-color: #fa501e;
+  border-color: #fa6400;
 }

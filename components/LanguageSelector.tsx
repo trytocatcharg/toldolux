@@ -21,8 +21,8 @@ export function LanguageSelector({ currentLocale }: { currentLocale: Locale }) {
           aria-label={`Cambiar idioma a ${locale}`}
           className={`rounded px-2 py-1 text-sm font-medium transition-colors ${
             currentLocale === locale
-              ? "bg-accent-500 text-white"
-              : "text-primary-100 hover:bg-primary-700 orange:text-orange-100 orange:hover:bg-orange-700"
+              ? "bg-accent-500 text-white orange:bg-orange-950 orange:text-orange-50"
+              : "text-primary-100 hover:bg-primary-700 orange:text-orange-950 orange:hover:bg-orange-600/30"
           }`}
         >
           {labels[locale]}
