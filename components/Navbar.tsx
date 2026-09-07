@@ -32,7 +32,7 @@ export function Navbar() {
             alt="Toldo Lux"
             width={140}
             height={50}
-            className="h-auto w-32"
+            className="h-auto w-16"
             priority
           />
         </a>
