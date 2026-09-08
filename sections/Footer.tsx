@@ -7,22 +7,28 @@ export function Footer() {
   const { t } = useI18n();
 
   const links = [
-    { label: t("footer.contact") as string, href: "#" },
+    { label: t("footer.contact") as string, href: "#contact" },
     { label: "Servicios", href: "#services" },
-    { label: "Galería", href: "#gallery" },
+    { label: "Proyectos", href: "#gallery" },
   ];
 
   return (
-    <footer id="contact" className="border-t border-primary-200 bg-white py-12 dark:border-primary-800 dark:bg-primary-900">
+    <footer className="border-t border-primary-200 bg-white py-12 dark:border-primary-800 dark:bg-primary-900">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="grid gap-8 md:grid-cols-3">
           <div>
-            <h3 className="mb-2 text-xl font-bold text-primary-900 dark:text-white">{t("footer.company") as string}</h3>
-            <p className="text-primary-600 dark:text-primary-200">{t("footer.tagline") as string}</p>
+            <h3 className="mb-2 text-xl font-bold text-primary-900 dark:text-white">
+              {t("footer.company") as string}
+            </h3>
+            <p className="text-primary-600 dark:text-primary-200">
+              {t("footer.tagline") as string}
+            </p>
           </div>
 
           <div>
-            <h4 className="mb-4 font-semibold text-primary-900 dark:text-white">{t("footer.contact") as string}</h4>
+            <h4 className="mb-4 font-semibold text-primary-900 dark:text-white">
+              {t("footer.contact") as string}
+            </h4>
             <ul className="space-y-3 text-primary-600 dark:text-primary-200">
               <li className="flex items-center gap-2">
                 <MapPin className="h-4 w-4 text-accent-500 dark:text-accent-400" />
@@ -40,11 +46,16 @@ export function Footer() {
           </div>
 
           <div>
-            <h4 className="mb-4 font-semibold text-primary-900 dark:text-white">Menú</h4>
+            <h4 className="mb-4 font-semibold text-primary-900 dark:text-white">
+              Menú
+            </h4>
             <ul className="space-y-2 text-primary-600 dark:text-primary-200">
               {links.map((link) => (
                 <li key={link.label}>
-                  <a href={link.href} className="hover:text-accent-500 dark:hover:text-accent-400">
+                  <a
+                    href={link.href}
+                    className="hover:text-accent-500 dark:hover:text-accent-400"
+                  >
                     {link.label}
                   </a>
                 </li>
@@ -54,7 +65,8 @@ export function Footer() {
         </div>
 
         <div className="mt-12 border-t border-primary-200 pt-8 text-center text-sm text-primary-500 dark:border-primary-800 dark:text-primary-400">
-          &copy; {new Date().getFullYear()} {t("footer.company") as string}. {t("footer.rights") as string}
+          &copy; {new Date().getFullYear()} {t("footer.company") as string}.{" "}
+          {t("footer.rights") as string}
         </div>
       </div>
     </footer>

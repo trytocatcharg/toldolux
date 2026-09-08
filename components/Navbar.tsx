@@ -16,6 +16,10 @@ export function Navbar() {
   const locale = params.locale as Locale;
   const [mobileOpen, setMobileOpen] = useState(false);
 
+  const scrollToContact = () => {
+    document.getElementById("contact")?.scrollIntoView({ behavior: "smooth" });
+  };
+
   const links = [
     { label: t("navbar.home") as string, href: "#" },
     { label: t("navbar.products") as string, href: "#products" },
@@ -53,7 +57,9 @@ export function Navbar() {
         <div className="hidden items-center gap-3 md:flex">
           <LanguageSelector currentLocale={locale} />
           <ThemeToggle />
-          <CtaButton>{t("navbar.cta") as string}</CtaButton>
+          <CtaButton onClick={scrollToContact}>
+            {t("navbar.cta") as string}
+          </CtaButton>
         </div>
 
         <button
@@ -86,7 +92,7 @@ export function Navbar() {
               <LanguageSelector currentLocale={locale} />
               <ThemeToggle />
             </div>
-            <CtaButton className="w-full">
+            <CtaButton className="w-full" onClick={scrollToContact}>
               {t("navbar.cta") as string}
             </CtaButton>
           </div>

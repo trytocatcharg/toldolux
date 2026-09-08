@@ -34,6 +34,20 @@ yarn lint     # lint
 - sitemap.xml y robots.txt
 - JSON-LD LocalBusiness
 
+## Reseñas de Google
+
+La sección de reseñas (`sections/Reviews.tsx`) se sincroniza automáticamente desde Google Places API (New):
+
+- Crear una API key en [Google Cloud Console](https://console.cloud.google.com/google/maps-apis) con la **Places API (New)** habilitada y facturación asociada.
+- Añadirla a `.env.local` (nunca commitear):
+
+  ```bash
+  GOOGLE_MAPS_API_KEY=tu_api_key
+  ```
+
+- Sin key, la sección muestra un snapshot estático de reseñas reales (`lib/reviews.ts`).
+- El `place_id` se resuelve en runtime por nombre + dirección, y los datos se cachean 24h (`unstable_cache`), así las reseñas nuevas aparecen solas en menos de un día. Coste estimado: < $1/mes.
+
 ## Notas
 
 - Los menús son visuales; las rutas internas se añadirán en siguientes fases.

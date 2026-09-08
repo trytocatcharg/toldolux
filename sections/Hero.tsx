@@ -6,6 +6,10 @@ import { useI18n } from "@/lib/i18n-context";
 export function Hero() {
   const { t } = useI18n();
 
+  const scrollToContact = () => {
+    document.getElementById("contact")?.scrollIntoView({ behavior: "smooth" });
+  };
+
   return (
     <section className="relative flex min-h-[80vh] items-center justify-center overflow-hidden">
       <div
@@ -22,7 +26,11 @@ export function Hero() {
         <p className="mx-auto mb-8 max-w-2xl text-lg text-primary-100 sm:text-xl">
           {t("hero.subtitle") as string}
         </p>
-        <CtaButton variant="primary" className="px-8 py-4 text-base">
+        <CtaButton
+          variant="primary"
+          className="px-8 py-4 text-base"
+          onClick={scrollToContact}
+        >
           {t("hero.cta") as string}
         </CtaButton>
       </div>

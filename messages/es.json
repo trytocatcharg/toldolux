@@ -5,12 +5,13 @@
     "ogTitle": "Toldo Lux - Protección solar a medida en Segur de Calafell",
     "ogDescription": "Toldos, pérgolas bioclimáticas y protección solar para hogares y comunidades. Solicita tu presupuesto sin compromiso."
   },
+  "callNow": "Llamar ahora",
   "navbar": {
     "brand": "Toldo Lux",
     "home": "Inicio",
     "products": "Productos",
     "services": "Servicios",
-    "gallery": "Galería",
+    "gallery": "Proyectos",
     "contact": "Contacto",
     "cta": "Presupuesto"
   },
@@ -79,8 +80,44 @@
     }
   },
   "gallery": {
-    "title": "Galería de trabajos",
+    "title": "Proyectos",
     "subtitle": "Algunos de nuestros proyectos de toldos y pérgolas realizados en la zona de Segur de Calafell."
+  },
+  "reviews": {
+    "title": "Lo que dicen nuestros clientes",
+    "subtitle": "Opiniones reales publicadas en Google por quienes ya confiaron en Toldo Lux.",
+    "ratingLabel": "Excelente",
+    "countLabel": "reseñas en Google",
+    "viewAll": "Ver todas las reseñas",
+    "writeReview": "Escribir una reseña",
+    "readMore": "Leer más",
+    "readLess": "Leer menos",
+    "autoSynced": "Las reseñas se sincronizan automáticamente desde Google."
+  },
+  "contact": {
+    "title": "Contacta con nosotros",
+    "subtitle": "¡Estás a un paso de hacer realidad tu sueño! Nos enfocamos en lo mejor para tu proyecto, te escuchamos y te asesoramos para lograr el mejor resultado. ¡Contáctanos!",
+    "mapTitle": "Mapa de ubicación de Toldo Lux en Segur de Calafell",
+    "form": {
+      "name": "Nombre",
+      "email": "Email",
+      "phone": "Teléfono",
+      "message": "Escribe aquí tu mensaje...",
+      "privacy": "He leído y acepto la",
+      "privacyLink": "política de privacidad",
+      "submit": "Enviar",
+      "sending": "Enviando...",
+      "successTitle": "¡Mensaje enviado!",
+      "successMessage": "Gracias por contactar con nosotros. Te responderemos lo antes posible.",
+      "sendAnother": "Enviar otro mensaje"
+    },
+    "validation": {
+      "required": "Este campo es obligatorio.",
+      "email": "Introduce un email válido.",
+      "phone": "Introduce un teléfono válido.",
+      "minLength": "Este campo es demasiado corto.",
+      "privacy": "Debes aceptar la política de privacidad."
+    }
   },
   "footer": {
     "company": "Toldo Lux",

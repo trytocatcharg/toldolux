@@ -5,12 +5,13 @@
     "ogTitle": "Toldo Lux - Protecció solar a mida a Segur de Calafell",
     "ogDescription": "Toldos, pèrgoles bioclimàtiques i protecció solar per a llars i comunitats. Sol·licita el teu pressupost sense compromís."
   },
+  "callNow": "Truca ara",
   "navbar": {
     "brand": "Toldo Lux",
     "home": "Inici",
     "products": "Productes",
     "services": "Serveis",
-    "gallery": "Galeria",
+    "gallery": "Projectes",
     "contact": "Contacte",
     "cta": "Pressupost"
   },
@@ -79,8 +80,44 @@
     }
   },
   "gallery": {
-    "title": "Galeria de treballs",
+    "title": "Projectes",
     "subtitle": "Alguns dels nostres projectes de toldos i pèrgoles realitzats a la zona de Segur de Calafell."
+  },
+  "reviews": {
+    "title": "El que diuen els nostres clients",
+    "subtitle": "Opinions reals publicades a Google per qui ja va confiar en Toldo Lux.",
+    "ratingLabel": "Excel·lent",
+    "countLabel": "ressenyes a Google",
+    "viewAll": "Veure totes les ressenyes",
+    "writeReview": "Escriure una ressenya",
+    "readMore": "Llegir més",
+    "readLess": "Llegir menys",
+    "autoSynced": "Les ressenyes es sincronitzen automàticament des de Google."
+  },
+  "contact": {
+    "title": "Contacta amb nosaltres",
+    "subtitle": "Estàs a un pas de fer realitat el teu somni! Ens enfoquem en el millor per al teu projecte, t'escoltem i t'assessorem per aconseguir el millor resultat. Contacta amb nosaltres!",
+    "mapTitle": "Mapa d'ubicació de Toldo Lux a Segur de Calafell",
+    "form": {
+      "name": "Nom",
+      "email": "Email",
+      "phone": "Telèfon",
+      "message": "Escriu aquí el teu missatge...",
+      "privacy": "He llegit i accepto la",
+      "privacyLink": "política de privacitat",
+      "submit": "Enviar",
+      "sending": "Enviant...",
+      "successTitle": "Missatge enviat!",
+      "successMessage": "Gràcies per contactar amb nosaltres. Et respondem tan aviat com sigui possible.",
+      "sendAnother": "Enviar un altre missatge"
+    },
+    "validation": {
+      "required": "Aquest camp és obligatori.",
+      "email": "Introdueix un email vàlid.",
+      "phone": "Introdueix un telèfon vàlid.",
+      "minLength": "Aquest camp és massa curt.",
+      "privacy": "Has d'acceptar la política de privacitat."
+    }
   },
   "footer": {
     "company": "Toldo Lux",
