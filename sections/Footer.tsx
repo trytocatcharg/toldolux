@@ -36,7 +36,11 @@ export function Footer() {
               </li>
               <li className="flex items-center gap-2">
                 <Phone className="h-4 w-4 text-accent-500 dark:text-accent-400" />
-                {t("footer.phone") as string}
+                {t("footer.phone1") as string}
+              </li>
+              <li className="flex items-center gap-2">
+                <Phone className="h-4 w-4 text-accent-500 dark:text-accent-400" />
+                {t("footer.phone2") as string}
               </li>
               <li className="flex items-center gap-2">
                 <Mail className="h-4 w-4 text-accent-500 dark:text-accent-400" />

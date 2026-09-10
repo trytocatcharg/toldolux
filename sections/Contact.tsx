@@ -117,7 +117,7 @@ export function Contact() {
     "mt-2 flex items-center gap-1 text-sm font-medium text-red-900";
 
   return (
-    <section id="contact" className="bg-white py-20 dark:bg-primary-950">
+    <section id="contact" className="bg-primary-50 py-20 dark:bg-primary-950">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="grid items-start gap-12 lg:grid-cols-2">
           <div>

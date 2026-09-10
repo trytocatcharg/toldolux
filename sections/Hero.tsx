@@ -14,7 +14,7 @@ export function Hero() {
     <section className="relative flex min-h-[80vh] items-center justify-center overflow-hidden">
       <div
         className="absolute inset-0 bg-cover bg-center bg-no-repeat"
-        style={{ backgroundImage: "url('/images/hero.jpg')" }}
+        style={{ backgroundImage: "url('/images/gallery/outside-toldo1.jpeg')" }}
         aria-hidden="true"
       />
       <div className="absolute inset-0 bg-gradient-to-r from-primary-900/90 via-primary-800/60 to-primary-800/40" />
