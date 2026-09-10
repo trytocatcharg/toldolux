@@ -5,7 +5,7 @@ export function JsonLd() {
     name: "Toldo Lux",
     description: "Empresa especializada en toldos, pérgolas bioclimáticas y protección solar a medida en Segur de Calafell.",
     url: "https://toldo-lux.com",
-    telephone: "+34 600 000 000",
+    telephone: "+34 680 787 990",
     email: "info@toldo-lux.com",
     address: {
       "@type": "PostalAddress",

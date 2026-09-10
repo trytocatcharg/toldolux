@@ -163,7 +163,7 @@ export function ReviewsPresentation({ data }: { data: ReviewsData }) {
   const reviews = data.reviews.slice(0, 6);
 
   return (
-    <section className="bg-primary-50 py-20 dark:bg-primary-900">
+    <section className="py-20 dark:bg-primary-900">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="mb-12 text-center">
           <h2 className="mb-4 text-3xl font-bold text-primary-900 dark:text-white sm:text-4xl">
