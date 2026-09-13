@@ -3,50 +3,20 @@
 import ImageGallery from "react-image-gallery";
 import "react-image-gallery/styles/css/image-gallery.css";
 import { useI18n } from "@/lib/i18n-context";
+import galleryManifest from "@/lib/gallery-manifest.json";
 
+// SAFETY: react-image-gallery ships its own bundled types that conflict with React 18's JSX namespace; casting to FC<any> preserves the library's runtime props interface.
 const GalleryComponent = ImageGallery as unknown as React.FC<any>;
+
+const images = galleryManifest.images.map((image) => ({
+  original: image.src,
+  thumbnail: image.src,
+  originalAlt: image.alt,
+  thumbnailAlt: image.alt,
+}));
 
 export function Gallery() {
   const { t } = useI18n();
-
-  const images = [
-    {
-      original: "/images/gallery/toldo-1.jpg",
-      thumbnail: "/images/gallery/toldo-1.jpg",
-      originalAlt: "Toldo extensible en balcón moderno",
-      thumbnailAlt: "Toldo extensible en balcón moderno",
-    },
-    {
-      original: "/images/gallery/toldo-2.jpg",
-      thumbnail: "/images/gallery/toldo-2.jpg",
-      originalAlt: "Toldo cofre en fachada mediterránea",
-      thumbnailAlt: "Toldo cofre en fachada mediterránea",
-    },
-    {
-      original: "/images/gallery/pergola-1.jpg",
-      thumbnail: "/images/gallery/pergola-1.jpg",
-      originalAlt: "Pérgola bioclimática de aluminio en jardín",
-      thumbnailAlt: "Pérgola bioclimática de aluminio en jardín",
-    },
-    {
-      original: "/images/gallery/pergola-2.jpg",
-      thumbnail: "/images/gallery/pergola-2.jpg",
-      originalAlt: "Pérgola moderna con techo retráctil",
-      thumbnailAlt: "Pérgola moderna con techo retráctil",
-    },
-    {
-      original: "/images/gallery/proteccion-1.jpg",
-      thumbnail: "/images/gallery/proteccion-1.jpg",
-      originalAlt: "Protección solar vertical en ventanales",
-      thumbnailAlt: "Protección solar vertical en ventanales",
-    },
-    {
-      original: "/images/gallery/proteccion-2.jpg",
-      thumbnail: "/images/gallery/proteccion-2.jpg",
-      originalAlt: "Toldo vela en terraza exterior",
-      thumbnailAlt: "Toldo vela en terraza exterior",
-    },
-  ];
 
   return (
     <section id="gallery" className="bg-primary-50 py-20">

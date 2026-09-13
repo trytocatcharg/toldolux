@@ -11,7 +11,8 @@
     "home": "Home",
     "products": "Products",
     "services": "Services",
-    "gallery": "Projects",
+    "gallery": "Gallery",
+    "projects": "Projects",
     "contact": "Contact",
     "cta": "Get a quote"
   },
@@ -79,10 +80,42 @@
       }
     }
   },
-  "gallery": {
-    "title": "Projects",
-    "subtitle": "Some of our awning and pergola projects completed in the Segur de Calafell area."
-  },
+      "gallery": {
+        "title": "Gallery",
+        "subtitle": "Some of our awning and pergola installations completed in the Segur de Calafell area."
+      },
+      "projects": {
+        "menu": [
+          { "slug": "instalacion-toldos-calafell", "title": "Awning installation in Calafell" },
+          { "slug": "instalacion-pergola-bioclimatica-el-vendrell", "title": "Bioclimatic pergola installation in El Vendrell" },
+          { "slug": "instalacion-toldos-baix-penedes", "title": "Awning installation in Baix Penedès" },
+          { "slug": "instalacion-pergolas-bioclimaticas-calafell", "title": "Bioclimatic pergolas installation in Calafell" },
+          { "slug": "instalacion-pergola-bioclimatica-roda-de-bera", "title": "Bioclimatic pergola installation in Roda de Berà" },
+          { "slug": "instalacion-toldo-torredembarra", "title": "Awning installation in Torredembarra" }
+        ],
+        "items": {
+          "instalacion-toldos-calafell": {
+            "description": "Custom awning installation in Calafell for homes, terraces and businesses. We manufacture and install technical awnings resistant to sun and sea salinity, with personalized advice."
+          },
+          "instalacion-pergola-bioclimatica-el-vendrell": {
+            "description": "Bioclimatic pergola installation project in El Vendrell. An adjustable louver system that regulates light and ventilation, ideal for enjoying your terrace all year round."
+          },
+          "instalacion-toldos-baix-penedes": {
+            "description": "Awning installation in Baix Penedès with custom design and high-quality materials. Sun protection solutions for terraces, balconies and homeowners' communities."
+          },
+          "instalacion-pergolas-bioclimaticas-calafell": {
+            "description": "Bioclimatic pergola installation in Calafell to create comfortable outdoor spaces all year round. Robust structures with adjustable louvers and modern finishes."
+          },
+          "instalacion-pergola-bioclimatica-roda-de-bera": {
+            "description": "Bioclimatic pergola installation in Roda de Berà, designed to protect from the sun and make the most of the sea breeze. An elegant, functional, custom outdoor space."
+          },
+          "instalacion-toldo-torredembarra": {
+            "description": "Awning installation in Torredembarra, custom-made to fit the home and its surroundings. Maximum sun protection with a modern, durable design."
+          }
+        },
+        "backToGallery": "Back to gallery",
+        "cta": "Request a quote"
+      },
   "reviews": {
     "title": "What our clients say",
     "subtitle": "Real reviews published on Google by those who already trusted Toldo Lux.",

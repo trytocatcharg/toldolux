@@ -1,11 +1,16 @@
 import { MetadataRoute } from "next";
-import { locales, defaultLocale } from "@/lib/i18n";
+import { locales } from "@/lib/i18n";
+import { PROJECT_SLUGS } from "@/lib/projects";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const siteUrl = "https://toldo-lux.com";
   const routes = [
     { path: "", priority: 1 },
     { path: "politica-de-privacidad", priority: 0.3 },
+    ...PROJECT_SLUGS.map((slug) => ({
+      path: `proyectos/${slug}`,
+      priority: 0.8,
+    })),
   ];
 
   const entries: MetadataRoute.Sitemap = [];

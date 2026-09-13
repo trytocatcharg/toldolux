@@ -11,7 +11,8 @@
     "home": "Inici",
     "products": "Productes",
     "services": "Serveis",
-    "gallery": "Projectes",
+    "gallery": "Galeria",
+    "projects": "Projectes",
     "contact": "Contacte",
     "cta": "Pressupost"
   },
@@ -79,10 +80,42 @@
       }
     }
   },
-  "gallery": {
-    "title": "Projectes",
-    "subtitle": "Alguns dels nostres projectes de toldos i pèrgoles realitzats a la zona de Segur de Calafell."
-  },
+      "gallery": {
+        "title": "Galeria",
+        "subtitle": "Algunes de les nostres instal·lacions de toldos i pèrgoles realitzades a la zona de Segur de Calafell."
+      },
+      "projects": {
+        "menu": [
+          { "slug": "instalacion-toldos-calafell", "title": "Instal·lació de toldos a Calafell" },
+          { "slug": "instalacion-pergola-bioclimatica-el-vendrell", "title": "Instal·lació de pèrgola bioclimàtica a El Vendrell" },
+          { "slug": "instalacion-toldos-baix-penedes", "title": "Instal·lació de toldos al Baix Penedès" },
+          { "slug": "instalacion-pergolas-bioclimaticas-calafell", "title": "Instal·lació de pèrgoles bioclimàtiques a Calafell" },
+          { "slug": "instalacion-pergola-bioclimatica-roda-de-bera", "title": "Instal·lació de pèrgola bioclimàtica a Roda de Berà" },
+          { "slug": "instalacion-toldo-torredembarra", "title": "Instal·lació de toldo a Torredembarra" }
+        ],
+        "items": {
+          "instalacion-toldos-calafell": {
+            "description": "Instal·lació de toldos a mida a Calafell per a habitatges, terrasses i negocis. Fabricem i instal·lem toldos tècnics resistents al sol i a la salinitat del mar, amb assessorament personalitzat."
+          },
+          "instalacion-pergola-bioclimatica-el-vendrell": {
+            "description": "Projecte d'instal·lació d'una pèrgola bioclimàtica a El Vendrell. Sistema de lames orientables que regulen la llum i la ventilació, ideal per gaudir de la terrassa durant tot l'any."
+          },
+          "instalacion-toldos-baix-penedes": {
+            "description": "Instal·lació de toldos al Baix Penedès amb disseny a mida i materials d'alta qualitat. Solucions de protecció solar per a terrasses, balcons i comunitats de veïns."
+          },
+          "instalacion-pergolas-bioclimaticas-calafell": {
+            "description": "Instal·lació de pèrgoles bioclimàtiques a Calafell per crear espais exteriors confortables tot l'any. Estructures robustes amb lames orientables i acabats moderns."
+          },
+          "instalacion-pergola-bioclimatica-roda-de-bera": {
+            "description": "Instal·lació d'una pèrgola bioclimàtica a Roda de Berà, dissenyada per protegir del sol i aprofitar la brisa del mar. Un espai exterior elegant, funcional i a mida."
+          },
+          "instalacion-toldo-torredembarra": {
+            "description": "Instal·lació de toldo a Torredembarra fabricat a mida per adaptar-se a l'habitatge i l'entorn. Màxima protecció solar amb un disseny modern i durador."
+          }
+        },
+        "backToGallery": "Tornar a la galeria",
+        "cta": "Sol·licitar pressupost"
+      },
   "reviews": {
     "title": "El que diuen els nostres clients",
     "subtitle": "Opinions reals publicades a Google per qui ja va confiar en Toldo Lux.",
