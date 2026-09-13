@@ -1,17 +1,18 @@
 import type { Metadata } from "next";
-import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Navbar } from "@/components/Navbar";
 import { Footer } from "@/sections/Footer";
+import { ProjectTemplate } from "@/components/ProjectTemplate";
 import { locales, Locale } from "@/lib/i18n";
 import { PROJECT_SLUGS, ProjectSlug, isProjectSlug } from "@/lib/projects";
+import { PROJECT_VISUALS } from "@/lib/projects-content";
 
 const siteUrl = "https://toldo-lux.com";
 
 interface Messages {
   projects: {
     menu: { slug: string; title: string }[];
-    items: Record<string, { description: string }>;
+    items: Record<string, { description: string; paragraphs?: string[] }>;
     backToGallery: string;
     cta: string;
   };
@@ -73,33 +74,26 @@ export default async function ProjectPage({
   const title =
     messages.projects.menu.find((item) => item.slug === projectSlug)?.title ??
     projectSlug;
-  const description = messages.projects.items[projectSlug]?.description ?? "";
+  const item = messages.projects.items[projectSlug];
+  const paragraphs =
+    item?.paragraphs && item.paragraphs.length > 0
+      ? item.paragraphs
+      : [item?.description ?? ""];
+  const visuals = PROJECT_VISUALS[projectSlug];
 
   return (
     <>
       <Navbar />
-      <main className="mx-auto max-w-3xl px-4 py-16 sm:px-6">
-        <Link
-          href={`/${locale}/#gallery`}
-          className="text-sm font-medium text-accent-600 transition-colors hover:text-accent-700 dark:text-accent-400"
-        >
-          ← {messages.projects.backToGallery}
-        </Link>
-        <h1 className="mt-6 text-3xl font-extrabold tracking-tight text-primary-900 dark:text-white sm:text-4xl">
-          {title}
-        </h1>
-        <p className="mt-6 text-lg leading-relaxed text-primary-700 dark:text-primary-200">
-          {description}
-        </p>
-        <div className="mt-10">
-          <a
-            href={`/${locale}/#contact`}
-            className="inline-flex items-center justify-center rounded-full bg-accent-500 px-8 py-4 text-base font-semibold text-white shadow-lg transition-transform hover:bg-accent-600 focus:outline-none focus:ring-2 focus:ring-accent-500 focus:ring-offset-2 active:scale-95"
-          >
-            {messages.projects.cta}
-          </a>
-        </div>
-      </main>
+      <ProjectTemplate
+        title={title}
+        heroImage={visuals.heroImage}
+        paragraphs={paragraphs}
+        sideImage={visuals.sideImage}
+        backHref={`/${locale}/#gallery`}
+        backLabel={messages.projects.backToGallery}
+        ctaHref={`/${locale}/#contact`}
+        ctaLabel={messages.projects.cta}
+      />
       <Footer />
     </>
   );
