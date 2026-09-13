@@ -28,8 +28,8 @@ export async function generateMetadata({
       },
     },
     robots: {
-      index: true,
-      follow: true,
+      index: false,
+      follow: false,
     },
     metadataBase: new URL(siteUrl),
   };
