@@ -9,10 +9,6 @@
       "alt": "5"
     },
     {
-      "src": "/images/gallery/9-scaled.jpg",
-      "alt": "9"
-    },
-    {
       "src": "/images/gallery/11-scaled.jpg",
       "alt": "11"
     },
@@ -23,10 +19,6 @@
     {
       "src": "/images/gallery/14-scaled.jpg",
       "alt": "14"
-    },
-    {
-      "src": "/images/gallery/15-scaled.jpg",
-      "alt": "15"
     },
     {
       "src": "/images/gallery/16-scaled.jpg",
@@ -43,10 +35,6 @@
     {
       "src": "/images/gallery/22-scaled.jpg",
       "alt": "22"
-    },
-    {
-      "src": "/images/gallery/23-scaled.jpg",
-      "alt": "23"
     },
     {
       "src": "/images/gallery/26-scaled.jpg",
@@ -81,16 +69,8 @@
       "alt": "39"
     },
     {
-      "src": "/images/gallery/40.jpeg",
-      "alt": "40"
-    },
-    {
-      "src": "/images/gallery/41.jpeg",
+      "src": "/images/gallery/41-scaled.jpg",
       "alt": "41"
-    },
-    {
-      "src": "/images/gallery/42.jpeg",
-      "alt": "42"
     },
     {
       "src": "/images/gallery/43-scaled.jpg",
@@ -103,18 +83,6 @@
     {
       "src": "/images/gallery/46-scaled.jpg",
       "alt": "46"
-    },
-    {
-      "src": "/images/gallery/47-scaled.jpg",
-      "alt": "47"
-    },
-    {
-      "src": "/images/gallery/49-scaled.jpg",
-      "alt": "49"
-    },
-    {
-      "src": "/images/gallery/50-scaled.jpg",
-      "alt": "50"
     },
     {
       "src": "/images/gallery/51-scaled.jpg",
@@ -131,10 +99,6 @@
     {
       "src": "/images/gallery/55-scaled.jpg",
       "alt": "55"
-    },
-    {
-      "src": "/images/gallery/56-scaled.jpg",
-      "alt": "56"
     },
     {
       "src": "/images/gallery/59-scaled.jpg",
@@ -173,10 +137,6 @@
       "alt": "69"
     },
     {
-      "src": "/images/gallery/70-scaled.jpg",
-      "alt": "70"
-    },
-    {
       "src": "/images/gallery/72-scaled.jpg",
       "alt": "72"
     },
@@ -189,24 +149,12 @@
       "alt": "76"
     },
     {
-      "src": "/images/gallery/77-scaled.jpg",
-      "alt": "77"
-    },
-    {
-      "src": "/images/gallery/79-scaled.jpg",
-      "alt": "79"
-    },
-    {
       "src": "/images/gallery/80-scaled.jpg",
       "alt": "80"
     },
     {
       "src": "/images/gallery/81-scaled.jpg",
       "alt": "81"
-    },
-    {
-      "src": "/images/gallery/82-scaled.jpg",
-      "alt": "82"
     },
     {
       "src": "/images/gallery/83-scaled.jpg",
@@ -225,20 +173,12 @@
       "alt": "87"
     },
     {
-      "src": "/images/gallery/88-scaled.jpg",
-      "alt": "88"
-    },
-    {
       "src": "/images/gallery/89-scaled.jpg",
       "alt": "89"
     },
     {
       "src": "/images/gallery/90-scaled.jpg",
       "alt": "90"
-    },
-    {
-      "src": "/images/gallery/91-scaled.jpg",
-      "alt": "91"
     },
     {
       "src": "/images/gallery/92-scaled.jpg",
@@ -261,28 +201,12 @@
       "alt": "98"
     },
     {
-      "src": "/images/gallery/99-scaled.jpg",
-      "alt": "99"
-    },
-    {
-      "src": "/images/gallery/100.jpg",
-      "alt": "100"
-    },
-    {
-      "src": "/images/gallery/101-scaled.jpg",
-      "alt": "101"
-    },
-    {
       "src": "/images/gallery/102-scaled.jpg",
       "alt": "102"
     },
     {
       "src": "/images/gallery/103-scaled.jpg",
       "alt": "103"
-    },
-    {
-      "src": "/images/gallery/outside-toldo1.jpeg",
-      "alt": "outside toldo1"
     },
     {
       "src": "/images/gallery/pergola-1.jpg",
@@ -295,10 +219,6 @@
     {
       "src": "/images/gallery/PHOTO-2026-02-16-14-44-08-2.jpg",
       "alt": "PHOTO 2026 02 16 14 44 08 2"
-    },
-    {
-      "src": "/images/gallery/PHOTO-2026-02-16-14-44-08.jpg",
-      "alt": "PHOTO 2026 02 16 14 44 08"
     },
     {
       "src": "/images/gallery/proteccion-1.jpg",
@@ -315,14 +235,6 @@
     {
       "src": "/images/gallery/toldo-2.jpg",
       "alt": "toldo 2"
-    },
-    {
-      "src": "/images/gallery/WhatsApp-Image-2025-12-17-at-11.25.51-1.jpeg",
-      "alt": "WhatsApp Image 2025 12 17 at 11.25.51 1"
-    },
-    {
-      "src": "/images/gallery/WhatsApp-Image-2025-12-17-at-11.25.51.jpeg",
-      "alt": "WhatsApp Image 2025 12 17 at 11.25.51"
     },
     {
       "src": "/images/gallery/WhatsApp-Image-2026-02-23-at-18.26.28-1.jpeg",

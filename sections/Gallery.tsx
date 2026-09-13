@@ -32,7 +32,7 @@ export function Gallery() {
         <div className="mx-auto max-w-5xl">
           <GalleryComponent
             items={images}
-            showPlayButton={false}
+            showPlayButton={true}
             showFullscreenButton={true}
             showThumbnails={true}
             thumbnailPosition="bottom"
