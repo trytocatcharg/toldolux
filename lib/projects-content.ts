@@ -16,8 +16,8 @@ export const PROJECT_VISUALS: Record<ProjectSlug, ProjectVisuals> = {
     sideImage: "/images/ChatOn-image-3.jpg",
   },
   "instalacion-pergola-bioclimatica-el-vendrell": {
-    heroImage: "/images/gallery/pergola-1.jpg",
-    sideImage: "/images/gallery/pergola-2.jpg",
+    heroImage: "/images/gallery/102-scaled.jpg",
+    sideImage: "/images/ChatOn-image-4.jpg",
   },
   "instalacion-toldos-baix-penedes": {
     heroImage: "/images/gallery/toldo-2.jpg",

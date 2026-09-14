@@ -5,7 +5,6 @@ import Image from "next/image";
 import Link from "next/link";
 import { useParams } from "next/navigation";
 import { ChevronDown, Menu, X } from "lucide-react";
-import { ThemeToggle } from "./ThemeToggle";
 import { LanguageSelector } from "./LanguageSelector";
 import { CtaButton } from "./CtaButton";
 import { useI18n } from "@/lib/i18n-context";
@@ -113,7 +112,7 @@ export function Navbar() {
 
         <div className="hidden items-center gap-3 md:flex">
           <LanguageSelector currentLocale={locale} />
-          <ThemeToggle />
+          {/* <ThemeToggle /> */}
           <CtaButton onClick={scrollToContact}>
             {t("navbar.cta") as string}
           </CtaButton>
@@ -185,7 +184,8 @@ export function Navbar() {
             ))}
             <div className="flex items-center justify-between pt-4">
               <LanguageSelector currentLocale={locale} />
-              <ThemeToggle />
+              {/* <ThemeToggle /> */}
+
             </div>
             <CtaButton className="w-full" onClick={scrollToContact}>
               {t("navbar.cta") as string}
