@@ -18,7 +18,13 @@ export function Navbar() {
   const [projectsOpen, setProjectsOpen] = useState(false);
   const [mobileProjectsOpen, setMobileProjectsOpen] = useState(false);
 
+  const closeMobileMenu = () => {
+    setMobileOpen(false);
+    setMobileProjectsOpen(false);
+  };
+
   const scrollToContact = () => {
+    closeMobileMenu();
     document.getElementById("contact")?.scrollIntoView({ behavior: "smooth" });
   };
 
@@ -32,13 +38,13 @@ export function Navbar() {
 
   const linksBeforeProjects = [
     { label: t("navbar.home") as string, href: homeHref },
-    { label: t("navbar.products") as string, href: "#products" },
-    { label: t("navbar.services") as string, href: "#services" },
+    { label: t("navbar.products") as string, href: homeHref + "#products" },
+    { label: t("navbar.services") as string, href: homeHref + "#services" },
   ];
 
   const linksAfterProjects = [
-    { label: t("navbar.gallery") as string, href: "#gallery" },
-    { label: t("navbar.contact") as string, href: "#contact" },
+    { label: t("navbar.gallery") as string, href: homeHref + "#gallery" },
+    { label: t("navbar.contact") as string, href: homeHref + "#contact" },
   ];
 
   return (
@@ -145,7 +151,7 @@ export function Navbar() {
                 key={link.label}
                 href={link.href}
                 className="text-base font-medium text-primary-100"
-                onClick={() => setMobileOpen(false)}
+                onClick={closeMobileMenu}
               >
                 {link.label}
               </a>
@@ -169,7 +175,7 @@ export function Navbar() {
                       key={item.slug}
                       href={`/${locale}/proyectos/${item.slug}`}
                       className="py-1.5 text-sm text-primary-200"
-                      onClick={() => setMobileOpen(false)}
+                      onClick={closeMobileMenu}
                     >
                       {item.title}
                     </Link>
@@ -183,7 +189,7 @@ export function Navbar() {
                 key={link.label}
                 href={link.href}
                 className="text-base font-medium text-primary-100"
-                onClick={() => setMobileOpen(false)}
+                onClick={closeMobileMenu}
               >
                 {link.label}
               </a>
