@@ -28,8 +28,10 @@ export function Navbar() {
     title: string;
   }[];
 
+  const homeHref = `/${locale}/`;
+
   const linksBeforeProjects = [
-    { label: t("navbar.home") as string, href: "#" },
+    { label: t("navbar.home") as string, href: homeHref },
     { label: t("navbar.products") as string, href: "#products" },
     { label: t("navbar.services") as string, href: "#services" },
   ];
@@ -42,7 +44,11 @@ export function Navbar() {
   return (
     <header className="sticky top-0 z-50 w-full border-b border-primary-700 bg-primary-800 backdrop-blur-md dark:border-primary-900 dark:bg-primary-900/95">
       <nav className="mx-auto flex max-w-7xl items-center justify-between px-4 py-3 sm:px-6 lg:px-8">
-        <a href="#" className="flex items-center">
+        <Link
+          href={homeHref}
+          className="flex items-center"
+          aria-label="Toldo Lux"
+        >
           <Image
             src="/images/header-removebg.png"
             alt="Toldo Lux"
@@ -51,7 +57,7 @@ export function Navbar() {
             className="h-auto w-16"
             priority
           />
-        </a>
+        </Link>
 
         <div className="hidden items-center gap-8 md:flex">
           {linksBeforeProjects.map((link) => (
@@ -185,7 +191,6 @@ export function Navbar() {
             <div className="flex items-center justify-between pt-4">
               <LanguageSelector currentLocale={locale} />
               {/* <ThemeToggle /> */}
-
             </div>
             <CtaButton className="w-full" onClick={scrollToContact}>
               {t("navbar.cta") as string}
