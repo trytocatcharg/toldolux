@@ -18,6 +18,8 @@ export function Navbar() {
   const [projectsOpen, setProjectsOpen] = useState(false);
   const [mobileProjectsOpen, setMobileProjectsOpen] = useState(false);
 
+  const homeHref = `/${locale}/`;
+
   const closeMobileMenu = () => {
     setMobileOpen(false);
     setMobileProjectsOpen(false);
@@ -25,6 +27,16 @@ export function Navbar() {
 
   const scrollToContact = () => {
     closeMobileMenu();
+
+    const currentPath = window.location.pathname;
+    const isHomePage =
+      currentPath === homeHref || currentPath === homeHref.slice(0, -1);
+
+    if (!isHomePage) {
+      window.location.href = `${homeHref}#contact`;
+      return;
+    }
+
     document.getElementById("contact")?.scrollIntoView({ behavior: "smooth" });
   };
 
@@ -33,8 +45,6 @@ export function Navbar() {
     slug: string;
     title: string;
   }[];
-
-  const homeHref = `/${locale}/`;
 
   const linksBeforeProjects = [
     { label: t("navbar.home") as string, href: homeHref },
