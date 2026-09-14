@@ -2,254 +2,317 @@
   "images": [
     {
       "src": "/images/gallery/4-scaled.jpg",
+      "thumbnailSrc": "/images/gallery/thumbnails/4-scaled.jpg",
       "alt": "4"
     },
     {
       "src": "/images/gallery/5-scaled.jpg",
+      "thumbnailSrc": "/images/gallery/thumbnails/5-scaled.jpg",
       "alt": "5"
     },
     {
       "src": "/images/gallery/11-scaled.jpg",
+      "thumbnailSrc": "/images/gallery/thumbnails/11-scaled.jpg",
       "alt": "11"
     },
     {
       "src": "/images/gallery/12-scaled.jpg",
+      "thumbnailSrc": "/images/gallery/thumbnails/12-scaled.jpg",
       "alt": "12"
     },
     {
       "src": "/images/gallery/14-scaled.jpg",
+      "thumbnailSrc": "/images/gallery/thumbnails/14-scaled.jpg",
       "alt": "14"
     },
     {
       "src": "/images/gallery/16-scaled.jpg",
+      "thumbnailSrc": "/images/gallery/thumbnails/16-scaled.jpg",
       "alt": "16"
     },
     {
       "src": "/images/gallery/18-scaled.jpg",
+      "thumbnailSrc": "/images/gallery/thumbnails/18-scaled.jpg",
       "alt": "18"
     },
     {
       "src": "/images/gallery/21-scaled.jpg",
+      "thumbnailSrc": "/images/gallery/thumbnails/21-scaled.jpg",
       "alt": "21"
     },
     {
       "src": "/images/gallery/22-scaled.jpg",
+      "thumbnailSrc": "/images/gallery/thumbnails/22-scaled.jpg",
       "alt": "22"
     },
     {
       "src": "/images/gallery/26-scaled.jpg",
+      "thumbnailSrc": "/images/gallery/thumbnails/26-scaled.jpg",
       "alt": "26"
     },
     {
       "src": "/images/gallery/28-scaled.jpg",
+      "thumbnailSrc": "/images/gallery/thumbnails/28-scaled.jpg",
       "alt": "28"
     },
     {
       "src": "/images/gallery/29.jpg",
+      "thumbnailSrc": "/images/gallery/thumbnails/29.jpg",
       "alt": "29"
     },
     {
       "src": "/images/gallery/32.jpg",
+      "thumbnailSrc": "/images/gallery/thumbnails/32.jpg",
       "alt": "32"
     },
     {
       "src": "/images/gallery/33-scaled.jpg",
+      "thumbnailSrc": "/images/gallery/thumbnails/33-scaled.jpg",
       "alt": "33"
     },
     {
       "src": "/images/gallery/36-scaled.jpg",
+      "thumbnailSrc": "/images/gallery/thumbnails/36-scaled.jpg",
       "alt": "36"
     },
     {
       "src": "/images/gallery/37-scaled.jpg",
+      "thumbnailSrc": "/images/gallery/thumbnails/37-scaled.jpg",
       "alt": "37"
     },
     {
       "src": "/images/gallery/39-scaled.jpg",
+      "thumbnailSrc": "/images/gallery/thumbnails/39-scaled.jpg",
       "alt": "39"
     },
     {
       "src": "/images/gallery/41-scaled.jpg",
+      "thumbnailSrc": "/images/gallery/thumbnails/41-scaled.jpg",
       "alt": "41"
     },
     {
       "src": "/images/gallery/43-scaled.jpg",
+      "thumbnailSrc": "/images/gallery/thumbnails/43-scaled.jpg",
       "alt": "43"
     },
     {
       "src": "/images/gallery/44-scaled.jpg",
+      "thumbnailSrc": "/images/gallery/thumbnails/44-scaled.jpg",
       "alt": "44"
     },
     {
       "src": "/images/gallery/46-scaled.jpg",
+      "thumbnailSrc": "/images/gallery/thumbnails/46-scaled.jpg",
       "alt": "46"
     },
     {
       "src": "/images/gallery/51-scaled.jpg",
+      "thumbnailSrc": "/images/gallery/thumbnails/51-scaled.jpg",
       "alt": "51"
     },
     {
       "src": "/images/gallery/52-scaled.jpg",
+      "thumbnailSrc": "/images/gallery/thumbnails/52-scaled.jpg",
       "alt": "52"
     },
     {
       "src": "/images/gallery/54-scaled.jpg",
+      "thumbnailSrc": "/images/gallery/thumbnails/54-scaled.jpg",
       "alt": "54"
     },
     {
       "src": "/images/gallery/55-scaled.jpg",
+      "thumbnailSrc": "/images/gallery/thumbnails/55-scaled.jpg",
       "alt": "55"
     },
     {
       "src": "/images/gallery/59-scaled.jpg",
+      "thumbnailSrc": "/images/gallery/thumbnails/59-scaled.jpg",
       "alt": "59"
     },
     {
       "src": "/images/gallery/60-scaled.jpg",
+      "thumbnailSrc": "/images/gallery/thumbnails/60-scaled.jpg",
       "alt": "60"
     },
     {
       "src": "/images/gallery/61-scaled.jpg",
+      "thumbnailSrc": "/images/gallery/thumbnails/61-scaled.jpg",
       "alt": "61"
     },
     {
       "src": "/images/gallery/62-scaled.jpg",
+      "thumbnailSrc": "/images/gallery/thumbnails/62-scaled.jpg",
       "alt": "62"
     },
     {
       "src": "/images/gallery/63-scaled.jpg",
+      "thumbnailSrc": "/images/gallery/thumbnails/63-scaled.jpg",
       "alt": "63"
     },
     {
       "src": "/images/gallery/65-scaled.jpg",
+      "thumbnailSrc": "/images/gallery/thumbnails/65-scaled.jpg",
       "alt": "65"
     },
     {
       "src": "/images/gallery/66-scaled.jpg",
+      "thumbnailSrc": "/images/gallery/thumbnails/66-scaled.jpg",
       "alt": "66"
     },
     {
       "src": "/images/gallery/67-scaled.jpg",
+      "thumbnailSrc": "/images/gallery/thumbnails/67-scaled.jpg",
       "alt": "67"
     },
     {
       "src": "/images/gallery/69-scaled.jpg",
+      "thumbnailSrc": "/images/gallery/thumbnails/69-scaled.jpg",
       "alt": "69"
     },
     {
       "src": "/images/gallery/72-scaled.jpg",
+      "thumbnailSrc": "/images/gallery/thumbnails/72-scaled.jpg",
       "alt": "72"
     },
     {
       "src": "/images/gallery/75-scaled.jpg",
+      "thumbnailSrc": "/images/gallery/thumbnails/75-scaled.jpg",
       "alt": "75"
     },
     {
       "src": "/images/gallery/76-scaled.jpg",
+      "thumbnailSrc": "/images/gallery/thumbnails/76-scaled.jpg",
       "alt": "76"
     },
     {
       "src": "/images/gallery/80-scaled.jpg",
+      "thumbnailSrc": "/images/gallery/thumbnails/80-scaled.jpg",
       "alt": "80"
     },
     {
       "src": "/images/gallery/81-scaled.jpg",
+      "thumbnailSrc": "/images/gallery/thumbnails/81-scaled.jpg",
       "alt": "81"
     },
     {
       "src": "/images/gallery/83-scaled.jpg",
+      "thumbnailSrc": "/images/gallery/thumbnails/83-scaled.jpg",
       "alt": "83"
     },
     {
       "src": "/images/gallery/84-scaled.jpg",
+      "thumbnailSrc": "/images/gallery/thumbnails/84-scaled.jpg",
       "alt": "84"
     },
     {
       "src": "/images/gallery/86-scaled.jpg",
+      "thumbnailSrc": "/images/gallery/thumbnails/86-scaled.jpg",
       "alt": "86"
     },
     {
       "src": "/images/gallery/87-scaled.jpg",
+      "thumbnailSrc": "/images/gallery/thumbnails/87-scaled.jpg",
       "alt": "87"
     },
     {
       "src": "/images/gallery/89-scaled.jpg",
+      "thumbnailSrc": "/images/gallery/thumbnails/89-scaled.jpg",
       "alt": "89"
     },
     {
       "src": "/images/gallery/90-scaled.jpg",
+      "thumbnailSrc": "/images/gallery/thumbnails/90-scaled.jpg",
       "alt": "90"
     },
     {
       "src": "/images/gallery/92-scaled.jpg",
+      "thumbnailSrc": "/images/gallery/thumbnails/92-scaled.jpg",
       "alt": "92"
     },
     {
       "src": "/images/gallery/94-scaled.jpg",
+      "thumbnailSrc": "/images/gallery/thumbnails/94-scaled.jpg",
       "alt": "94"
     },
     {
       "src": "/images/gallery/95-scaled.jpg",
+      "thumbnailSrc": "/images/gallery/thumbnails/95-scaled.jpg",
       "alt": "95"
     },
     {
       "src": "/images/gallery/97-scaled.jpg",
+      "thumbnailSrc": "/images/gallery/thumbnails/97-scaled.jpg",
       "alt": "97"
     },
     {
       "src": "/images/gallery/98-scaled.jpg",
+      "thumbnailSrc": "/images/gallery/thumbnails/98-scaled.jpg",
       "alt": "98"
     },
     {
       "src": "/images/gallery/102-scaled.jpg",
+      "thumbnailSrc": "/images/gallery/thumbnails/102-scaled.jpg",
       "alt": "102"
     },
     {
       "src": "/images/gallery/103-scaled.jpg",
+      "thumbnailSrc": "/images/gallery/thumbnails/103-scaled.jpg",
       "alt": "103"
     },
     {
       "src": "/images/gallery/pergola-1.jpg",
+      "thumbnailSrc": "/images/gallery/thumbnails/pergola-1.jpg",
       "alt": "pergola 1"
     },
     {
       "src": "/images/gallery/pergola-2.jpg",
+      "thumbnailSrc": "/images/gallery/thumbnails/pergola-2.jpg",
       "alt": "pergola 2"
     },
     {
       "src": "/images/gallery/PHOTO-2026-02-16-14-44-08-2.jpg",
+      "thumbnailSrc": "/images/gallery/thumbnails/PHOTO-2026-02-16-14-44-08-2.jpg",
       "alt": "PHOTO 2026 02 16 14 44 08 2"
     },
     {
       "src": "/images/gallery/proteccion-1.jpg",
+      "thumbnailSrc": "/images/gallery/thumbnails/proteccion-1.jpg",
       "alt": "proteccion 1"
     },
     {
       "src": "/images/gallery/proteccion-2.jpg",
+      "thumbnailSrc": "/images/gallery/thumbnails/proteccion-2.jpg",
       "alt": "proteccion 2"
     },
     {
       "src": "/images/gallery/toldo-1.jpg",
+      "thumbnailSrc": "/images/gallery/thumbnails/toldo-1.jpg",
       "alt": "toldo 1"
     },
     {
       "src": "/images/gallery/toldo-2.jpg",
+      "thumbnailSrc": "/images/gallery/thumbnails/toldo-2.jpg",
       "alt": "toldo 2"
     },
     {
       "src": "/images/gallery/WhatsApp-Image-2026-02-23-at-18.26.28-1.jpeg",
+      "thumbnailSrc": "/images/gallery/thumbnails/WhatsApp-Image-2026-02-23-at-18.26.28-1.jpeg",
       "alt": "WhatsApp Image 2026 02 23 at 18.26.28 1"
     },
     {
       "src": "/images/gallery/WhatsApp-Image-2026-02-23-at-18.26.28.jpeg",
+      "thumbnailSrc": "/images/gallery/thumbnails/WhatsApp-Image-2026-02-23-at-18.26.28.jpeg",
       "alt": "WhatsApp Image 2026 02 23 at 18.26.28"
     },
     {
       "src": "/images/gallery/WhatsApp-Image-2026-02-23-at-18.26.29-1.jpeg",
+      "thumbnailSrc": "/images/gallery/thumbnails/WhatsApp-Image-2026-02-23-at-18.26.29-1.jpeg",
       "alt": "WhatsApp Image 2026 02 23 at 18.26.29 1"
     },
     {
       "src": "/images/gallery/WhatsApp-Image-2026-02-23-at-18.26.29.jpeg",
+      "thumbnailSrc": "/images/gallery/thumbnails/WhatsApp-Image-2026-02-23-at-18.26.29.jpeg",
       "alt": "WhatsApp Image 2026 02 23 at 18.26.29"
     }
   ]

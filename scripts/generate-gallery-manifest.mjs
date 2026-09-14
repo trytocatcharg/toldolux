@@ -4,6 +4,7 @@ import { fileURLToPath } from "node:url";
 
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
 const galleryDir = join(root, "public", "images", "gallery");
+const thumbnailsDir = join(galleryDir, "thumbnails");
 const outFile = join(root, "lib", "gallery-manifest.json");
 
 const EXTENSIONS = new Set([".jpg", ".jpeg", ".png", ".webp", ".gif", ".avif"]);
@@ -20,6 +21,9 @@ function prettifyAlt(stem) {
 }
 
 const files = existsSync(galleryDir) ? readdirSync(galleryDir) : [];
+const thumbnailFiles = existsSync(thumbnailsDir)
+  ? new Set(readdirSync(thumbnailsDir))
+  : new Set();
 
 const images = files
   .filter((f) => EXTENSIONS.has(f.slice(f.lastIndexOf(".")).toLowerCase()))
@@ -35,6 +39,9 @@ const images = files
   .sort((a, b) => a.localeCompare(b, undefined, { numeric: true }))
   .map((f) => ({
     src: `/images/gallery/${f}`,
+    thumbnailSrc: thumbnailFiles.has(f)
+      ? `/images/gallery/thumbnails/${f}`
+      : `/images/gallery/${f}`,
     alt: prettifyAlt(stripExt(f)),
   }));
 

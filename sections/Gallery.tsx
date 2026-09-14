@@ -10,9 +10,10 @@ const GalleryComponent = ImageGallery as unknown as React.FC<any>;
 
 const images = galleryManifest.images.map((image) => ({
   original: image.src,
-  thumbnail: image.src,
+  thumbnail: image.thumbnailSrc,
   originalAlt: image.alt,
   thumbnailAlt: image.alt,
+  thumbnailLoading: "lazy",
 }));
 
 export function Gallery() {
