@@ -4,12 +4,27 @@ import { useI18n } from "@/lib/i18n-context";
 import { Phone, Mail, MapPin } from "lucide-react";
 
 export function Footer() {
-  const { t } = useI18n();
+  const { t, locale } = useI18n();
 
   const links = [
     { label: t("footer.contact") as string, href: "#contact" },
     { label: "Servicios", href: "#services" },
     { label: "Proyectos", href: "#gallery" },
+  ];
+
+  const legalLinks = [
+    {
+      label: t("footer.privacyPolicy") as string,
+      href: `/${locale}/politica-de-privacidad`,
+    },
+    {
+      label: t("footer.legalNotice") as string,
+      href: `/${locale}/aviso-legal`,
+    },
+    {
+      label: t("footer.cookiePolicy") as string,
+      href: `/${locale}/politica-de-cookies`,
+    },
   ];
 
   return (
@@ -55,6 +70,16 @@ export function Footer() {
             </h4>
             <ul className="space-y-2 text-primary-600 dark:text-primary-200">
               {links.map((link) => (
+                <li key={link.label}>
+                  <a
+                    href={link.href}
+                    className="hover:text-accent-500 dark:hover:text-accent-400"
+                  >
+                    {link.label}
+                  </a>
+                </li>
+              ))}
+              {legalLinks.map((link) => (
                 <li key={link.label}>
                   <a
                     href={link.href}
