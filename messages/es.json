@@ -175,6 +175,9 @@
         "phone1": "+34 680 787 990",
     "phone2": "+34 690 38 28 28",
     "email": "info@toldo-lux.com",
-    "rights": "Todos los derechos reservados."
+    "rights": "Todos los derechos reservados.",
+    "privacyPolicy": "Política de privacidad",
+    "legalNotice": "Aviso legal",
+    "cookiePolicy": "Política de cookies"
   }
 }
