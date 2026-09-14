@@ -79,16 +79,6 @@ export function Footer() {
                   </a>
                 </li>
               ))}
-              {legalLinks.map((link) => (
-                <li key={link.label}>
-                  <a
-                    href={link.href}
-                    className="hover:text-accent-500 dark:hover:text-accent-400"
-                  >
-                    {link.label}
-                  </a>
-                </li>
-              ))}
             </ul>
           </div>
         </div>
@@ -96,6 +86,17 @@ export function Footer() {
         <div className="mt-12 border-t border-primary-200 pt-8 text-center text-sm text-primary-500 dark:border-primary-800 dark:text-primary-400">
           &copy; {new Date().getFullYear()} {t("footer.company") as string}.{" "}
           {t("footer.rights") as string}
+          <div className="mt-4 flex flex-wrap items-center justify-center gap-x-6 gap-y-2">
+            {legalLinks.map((link) => (
+              <a
+                key={link.label}
+                href={link.href}
+                className="hover:text-accent-500 dark:hover:text-accent-400"
+              >
+                {link.label}
+              </a>
+            ))}
+          </div>
         </div>
       </div>
     </footer>
