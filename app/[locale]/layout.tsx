@@ -5,6 +5,7 @@ import { notFound } from "next/navigation";
 import { locales, Locale } from "@/lib/i18n";
 import { I18nProvider } from "@/lib/i18n-context";
 import { Providers } from "@/components/providers";
+import { WhatsAppButton } from "@/components/WhatsAppButton";
 import "./globals.css";
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
@@ -29,6 +30,9 @@ export async function generateMetadata({
     title: t("metadata.title"),
     description: t("metadata.description"),
     metadataBase: new URL(siteUrl),
+    icons: {
+      icon: "/images/favicon.png",
+    },
     alternates: {
       canonical: `/${locale}/`,
       languages: {
@@ -73,7 +77,10 @@ export default async function LocaleLayout({
     <html lang={locale} suppressHydrationWarning>
       <body className={`${inter.variable} font-sans antialiased`}>
         <I18nProvider locale={locale}>
-          <Providers>{children}</Providers>
+          <Providers>
+            {children}
+            <WhatsAppButton />
+          </Providers>
         </I18nProvider>
       </body>
     </html>
