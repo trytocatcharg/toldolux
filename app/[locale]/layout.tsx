@@ -7,6 +7,7 @@ import { I18nProvider } from "@/lib/i18n-context";
 import { Providers } from "@/components/providers";
 import { WhatsAppButton } from "@/components/WhatsAppButton";
 import "./globals.css";
+import { CallNowButton } from "@/components/CallNowButton";
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 
@@ -79,6 +80,7 @@ export default async function LocaleLayout({
         <I18nProvider locale={locale}>
           <Providers>
             {children}
+            <CallNowButton />
             <WhatsAppButton />
           </Providers>
         </I18nProvider>

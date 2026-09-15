@@ -2,6 +2,8 @@
 
 import { useI18n } from "@/lib/i18n-context";
 import { Phone, Mail, MapPin } from "lucide-react";
+import { InstagramIcon } from "@/components/InstagramIcon";
+import { INSTAGRAM_URL } from "@/lib/utils";
 
 export function Footer() {
   const { t, locale } = useI18n();
@@ -30,7 +32,7 @@ export function Footer() {
   return (
     <footer className="border-t border-primary-200 bg-white py-12 dark:border-primary-800 dark:bg-primary-900">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-        <div className="grid gap-8 md:grid-cols-3">
+        <div className="grid gap-8 md:grid-cols-4">
           <div>
             <h3 className="mb-2 text-xl font-bold text-primary-900 dark:text-white">
               {t("footer.company") as string}
@@ -80,6 +82,22 @@ export function Footer() {
                 </li>
               ))}
             </ul>
+          </div>
+
+          <div>
+            <h4 className="mb-4 font-semibold text-primary-900 dark:text-white">
+              {t("footer.social") as string}
+            </h4>
+            <a
+              href={INSTAGRAM_URL}
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label="Instagram"
+              className="inline-flex items-center gap-2 text-primary-600 transition-colors hover:text-accent-500 dark:text-primary-200 dark:hover:text-accent-400"
+            >
+              <InstagramIcon className="h-5 w-5 text-accent-500 dark:text-accent-400" />
+              Instagram
+            </a>
           </div>
         </div>
 

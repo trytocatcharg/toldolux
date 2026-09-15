@@ -7,7 +7,6 @@ import { Reviews } from "@/sections/Reviews";
 import { Contact } from "@/sections/Contact";
 import { Footer } from "@/sections/Footer";
 import { JsonLd } from "@/components/JsonLd";
-import { CallNowButton } from "@/components/CallNowButton";
 
 export default function Home() {
   return (
@@ -23,7 +22,6 @@ export default function Home() {
         <Contact />
       </main>
       <Footer />
-      <CallNowButton />
     </>
   );
 }
