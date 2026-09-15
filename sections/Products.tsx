@@ -76,6 +76,77 @@ export function Products() {
             />
           ))}
         </div>
+
+        <div className="mt-8 text-center">
+          <h2 className="mb-4 text-3xl font-bold text-primary-900 dark:text-white sm:text-4xl">
+            {t("products.title2") as string}
+          </h2>
+          <div className="mt-8 grid items-start gap-10 md:grid-cols-2">
+            <div className="flex flex-col items-center justify-center gap-6">
+               <p 
+                  className="mx-auto max-w-2xl text-justify text-lg text-primary-600 dark:text-primary-200"
+                  dangerouslySetInnerHTML={{
+                    __html: t("products.subtitle2") as string,
+                  }}
+                />
+
+                <p 
+                  className="mx-auto max-w-2xl text-justify text-lg text-primary-600 dark:text-primary-200"
+                  dangerouslySetInnerHTML={{
+                    __html: t("products.subtitle3") as string,
+                  }}
+                />
+                
+                 <p 
+                  className="w-full text-left text-lg text-primary-600 dark:text-primary-200"
+                  dangerouslySetInnerHTML={{
+                    __html: t("products.subtitle4") as string,
+                  }}
+                />
+
+                <ul className="list-disc pl-4">
+                    <li className="mx-auto max-w-2xl text-lg text-justify text-primary-600 dark:text-primary-200"
+                     dangerouslySetInnerHTML={{
+                    __html: t("products.subtitle5") as string,
+                  }}/>
+                     
+  <li className="mx-auto max-w-2xl text-lg text-justify text-primary-600 dark:text-primary-200"
+                        dangerouslySetInnerHTML={{
+                    __html: t("products.subtitle6") as string,
+                  }}/>
+                    <li className="mx-auto max-w-2xl text-lg text-justify text-primary-600 dark:text-primary-200"
+                     dangerouslySetInnerHTML={{
+                    __html: t("products.subtitle7") as string,
+                  }}/>
+                    <li className="mx-auto max-w-2xl text-lg text-justify text-primary-600 dark:text-primary-200"
+                     dangerouslySetInnerHTML={{
+                    __html: t("products.subtitle8") as string,
+                  }}/>
+                    <li className="mx-auto max-w-2xl text-lg text-justify text-primary-600 dark:text-primary-200"
+                     dangerouslySetInnerHTML={{
+                    __html: t("products.subtitle9") as string,
+                  }}/>
+                </ul>
+                <p className="mx-auto max-w-2xl text-lg text-justify text-primary-600 dark:text-primary-200" dangerouslySetInnerHTML={{
+                    __html: t("products.subtitle10") as string,
+                  }}
+                />
+                <ul>
+                    <li className="mx-auto max-w-2xl text-lg text-justify text-primary-600 dark:text-primary-200"
+                     dangerouslySetInnerHTML={{
+                    __html: t("products.subtitle11") as string,
+                  }}/>
+                </ul>
+            </div>
+           <img
+           src="/images/exterior-of-modern-apartment-buildings.jpg"
+           >
+           </img>
+
+          </div>
+
+          
+        </div>
       </div>
     </section>
   );
