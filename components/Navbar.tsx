@@ -5,10 +5,12 @@ import Image from "next/image";
 import Link from "next/link";
 import { useParams } from "next/navigation";
 import { ChevronDown, Menu, X } from "lucide-react";
+import { InstagramIcon } from "@/components/InstagramIcon";
 import { LanguageSelector } from "./LanguageSelector";
 import { CtaButton } from "./CtaButton";
 import { useI18n } from "@/lib/i18n-context";
 import { Locale } from "@/lib/i18n";
+import { INSTAGRAM_URL } from "@/lib/utils";
 
 export function Navbar() {
   const { t } = useI18n();
@@ -133,6 +135,15 @@ export function Navbar() {
         </div>
 
         <div className="hidden items-center gap-3 md:flex">
+          <a
+            href={INSTAGRAM_URL}
+            target="_blank"
+            rel="noopener noreferrer"
+            aria-label="Instagram"
+            className="text-primary-100 transition-colors hover:text-accent-400"
+          >
+            <InstagramIcon className="h-5 w-5" />
+          </a>
           <LanguageSelector currentLocale={locale} />
           {/* <ThemeToggle /> */}
           <CtaButton onClick={scrollToContact}>
@@ -206,6 +217,15 @@ export function Navbar() {
             ))}
             <div className="flex items-center justify-between pt-4">
               <LanguageSelector currentLocale={locale} />
+              <a
+                href={INSTAGRAM_URL}
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Instagram"
+                className="text-primary-100 transition-colors hover:text-accent-400"
+              >
+                <InstagramIcon className="h-6 w-6" />
+              </a>
               {/* <ThemeToggle /> */}
             </div>
             <CtaButton className="w-full" onClick={scrollToContact}>
