@@ -9,7 +9,7 @@ const EMAIL_REGEX = /^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/;
 const PHONE_REGEX = /^\+?[0-9][0-9\s.-]{6,17}$/;
 
 const MAP_EMBED_URL =
-  "https://www.google.com/maps?q=Carrer%20Rumania%2022%2C%2043882%20Segur%20de%20Calafell%2C%20Tarragona&output=embed";
+  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1500.930869623054!2d1.5983025303936809!3d41.20298779634111!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12a389af06241ee9%3A0x3a1b49d083767071!2sToldo%20Lux!5e0!3m2!1sen!2ses!4v1789718446549!5m2!1sen!2ses&output=embed";
 
 interface FormValues {
   name: string;
