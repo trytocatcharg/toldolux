@@ -37,3 +37,88 @@ body {
 .dark .image-gallery-thumbnail:hover {
   border-color: #fa501e;
 }
+
+/* Initial page loader: soft logo reveal */
+@keyframes loader-logo {
+  0% {
+    opacity: 0;
+    transform: scale(0.94);
+  }
+  22% {
+    opacity: 1;
+    transform: scale(1);
+  }
+  70% {
+    opacity: 1;
+    transform: scale(1);
+  }
+  100% {
+    opacity: 0;
+    transform: scale(0.98);
+  }
+}
+
+@keyframes loader-glow {
+  0% {
+    opacity: 0;
+    transform: scale(0.8);
+  }
+  30% {
+    opacity: 1;
+  }
+  70% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+    transform: scale(1.15);
+  }
+}
+
+@keyframes loader-line {
+  0%,
+  18% {
+    opacity: 0;
+    transform: scaleX(0);
+  }
+  40% {
+    opacity: 1;
+  }
+  60% {
+    transform: scaleX(1);
+  }
+  75% {
+    opacity: 1;
+    transform: scaleX(1);
+  }
+  100% {
+    opacity: 0;
+    transform: scaleX(1);
+  }
+}
+
+@keyframes loader-fade {
+  0%,
+  80% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+.loader-logo {
+  animation: loader-logo 1.8s ease forwards;
+}
+
+.loader-glow {
+  animation: loader-glow 1.8s ease forwards;
+}
+
+.loader-line {
+  animation: loader-line 1.8s cubic-bezier(0.65, 0, 0.35, 1) forwards;
+}
+
+.loader-overlay {
+  animation: loader-fade 1.8s ease forwards;
+}

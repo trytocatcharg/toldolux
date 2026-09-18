@@ -6,6 +6,7 @@ import { locales, Locale } from "@/lib/i18n";
 import { I18nProvider } from "@/lib/i18n-context";
 import { Providers } from "@/components/providers";
 import { WhatsAppButton } from "@/components/WhatsAppButton";
+import { PageLoader } from "@/components/PageLoader";
 import "./globals.css";
 import { CallNowButton } from "@/components/CallNowButton";
 
@@ -77,6 +78,7 @@ export default async function LocaleLayout({
   return (
     <html lang={locale} suppressHydrationWarning>
       <body className={`${inter.variable} font-sans antialiased`}>
+        <PageLoader />
         <I18nProvider locale={locale}>
           <Providers>
             {children}
