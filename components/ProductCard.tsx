@@ -15,7 +15,7 @@ export function ProductCard({
   ctaLabel,
 }: ProductCardProps) {
   return (
-    <div className="group flex flex-col overflow-hidden rounded-2xl bg-white shadow-md ring-1 ring-primary-200/60 transition-shadow duration-300 hover:shadow-xl dark:bg-primary-900 dark:ring-primary-800">
+    <div className="group flex h-full flex-col overflow-hidden rounded-2xl bg-white shadow-md ring-1 ring-primary-200/60 transition-shadow duration-300 hover:shadow-xl dark:bg-primary-900 dark:ring-primary-800">
       <div className="relative aspect-[4/3] overflow-hidden">
         <Image
           src={image}

@@ -1,6 +1,7 @@
 "use client";
 
 import { ProductCard } from "@/components/ProductCard";
+import { Reveal } from "@/components/Reveal";
 import { useI18n } from "@/lib/i18n-context";
 
 export function Products() {
@@ -66,14 +67,19 @@ export function Products() {
           </p>
         </div>
         <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-          {products.map((product) => (
-            <ProductCard
+          {products.map((product, index) => (
+            <Reveal
               key={product.name}
-              image={product.image}
-              name={product.name}
-              description={product.description}
-              ctaLabel={t("products.cta") as string}
-            />
+              delay={(index % 3) * 100}
+              className="h-full"
+            >
+              <ProductCard
+                image={product.image}
+                name={product.name}
+                description={product.description}
+                ctaLabel={t("products.cta") as string}
+              />
+            </Reveal>
           ))}
         </div>
 
