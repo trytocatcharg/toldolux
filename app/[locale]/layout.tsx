@@ -9,6 +9,7 @@ import { WhatsAppButton } from "@/components/WhatsAppButton";
 import { PageLoader } from "@/components/PageLoader";
 import "./globals.css";
 import { CallNowButton } from "@/components/CallNowButton";
+import { SITE_URL } from "@/lib/utils";
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 
@@ -26,12 +27,11 @@ export async function generateMetadata({
   );
   const t = (key: string) =>
     key.split(".").reduce((acc, part) => acc?.[part], messages) as string;
-  const siteUrl = "https://toldo-lux.com";
 
   return {
     title: t("metadata.title"),
     description: t("metadata.description"),
-    metadataBase: new URL(siteUrl),
+    metadataBase: new URL(SITE_URL),
     icons: {
       icon: "/images/favicon.png",
     },

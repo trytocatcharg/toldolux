@@ -82,67 +82,85 @@
       }
     },
     "title2": "¡Toldolux llança preus especials per a comunitats de veïns!",
-"subtitle2": "A <b>TOLDOLUX</b>, empresa especialitzada en <b>tendals, pèrgoles bioclimàtiques i protecció solar</b> a mida, oferim una campanya exclusiva de preus especials per a comunitats de propietaris durant aquesta temporada.",
-"subtitle3": "La iniciativa està dirigida a comunitats que vulguin millorar el <b>confort</b> i l'<b>estètica</b> de les seves zones comunes, <b>terrasses, àtics, balcons i espais exteriors</b>, beneficiant-se de condicions preferents i solucions personalitzades.",
-"subtitle4": "Entre els serveis inclosos destaquen:",
-"subtitle5": "Instal·lació de <b>tendals</b> per a façanes i balcons.",
-"subtitle6": "<b>Pèrgoles bioclimàtiques</b> d'última generació.",
-"subtitle7": "Sistemes <b>motoritzats i automatitzats</b>.",
-"subtitle8": "Assessorament tècnic i mesurament <b>gratuït</b>.",
-"subtitle9": "Fabricació <b>a mida</b> amb materials d'<b>alta qualitat</b>.",
-"subtitle10": "El nostre objectiu és facilitar a les comunitats la millora dels seus espais exteriors mitjançant solucions <b>duradores, eficients i adaptades</b> a les necessitats de cada edifici.",
-"subtitle11": "Volem que les comunitats puguin gaudir d'una protecció solar de <b>qualitat</b>, amb instal·lacions <b>professionals</b> i unes condicions econòmiques molt <b>competitives</b>.",
-"subtitle12": "Les comunitats interessades poden sol·licitar pressupost <b>sense compromís</b> i rebre assessorament <b>personalitzat.</b>"
+    "subtitle2": "A <b>TOLDOLUX</b>, empresa especialitzada en <b>tendals, pèrgoles bioclimàtiques i protecció solar</b> a mida, oferim una campanya exclusiva de preus especials per a comunitats de propietaris durant aquesta temporada.",
+    "subtitle3": "La iniciativa està dirigida a comunitats que vulguin millorar el <b>confort</b> i l'<b>estètica</b> de les seves zones comunes, <b>terrasses, àtics, balcons i espais exteriors</b>, beneficiant-se de condicions preferents i solucions personalitzades.",
+    "subtitle4": "Entre els serveis inclosos destaquen:",
+    "subtitle5": "Instal·lació de <b>tendals</b> per a façanes i balcons.",
+    "subtitle6": "<b>Pèrgoles bioclimàtiques</b> d'última generació.",
+    "subtitle7": "Sistemes <b>motoritzats i automatitzats</b>.",
+    "subtitle8": "Assessorament tècnic i mesurament <b>gratuït</b>.",
+    "subtitle9": "Fabricació <b>a mida</b> amb materials d'<b>alta qualitat</b>.",
+    "subtitle10": "El nostre objectiu és facilitar a les comunitats la millora dels seus espais exteriors mitjançant solucions <b>duradores, eficients i adaptades</b> a les necessitats de cada edifici.",
+    "subtitle11": "Volem que les comunitats puguin gaudir d'una protecció solar de <b>qualitat</b>, amb instal·lacions <b>professionals</b> i unes condicions econòmiques molt <b>competitives</b>.",
+    "subtitle12": "Les comunitats interessades poden sol·licitar pressupost <b>sense compromís</b> i rebre assessorament <b>personalitzat.</b>"
   },
-      "gallery": {
-        "title": "Galeria",
-        "subtitle": "Algunes de les nostres instal·lacions de toldos i pèrgoles realitzades a la zona de Segur de Calafell."
+  "gallery": {
+    "title": "Galeria",
+    "subtitle": "Algunes de les nostres instal·lacions de toldos i pèrgoles realitzades a la zona de Segur de Calafell."
+  },
+  "projects": {
+    "menu": [
+      {
+        "slug": "instalacion-toldos-calafell",
+        "title": "Instal·lació de toldos a Calafell"
       },
-      "projects": {
-        "menu": [
-          { "slug": "instalacion-toldos-calafell", "title": "Instal·lació de toldos a Calafell" },
-          { "slug": "instalacion-pergola-bioclimatica-el-vendrell", "title": "Instal·lació de pèrgola bioclimàtica a El Vendrell" },
-          { "slug": "instalacion-toldos-baix-penedes", "title": "Instal·lació de toldos al Baix Penedès" },
-          { "slug": "instalacion-pergolas-bioclimaticas-calafell", "title": "Instal·lació de pèrgoles bioclimàtiques a Calafell" },
-          { "slug": "instalacion-pergola-bioclimatica-roda-de-bera", "title": "Instal·lació de pèrgola bioclimàtica a Roda de Berà" },
-          { "slug": "instalacion-toldo-torredembarra", "title": "Instal·lació de toldo a Torredembarra" }
-        ],
-        "items": {
-          "instalacion-toldos-calafell": {
-            "description": "Instal·lació de toldos a mida a Calafell per a habitatges, terrasses i negocis. Fabricem i instal·lem toldos tècnics resistents al sol i a la salinitat del mar, amb assessorament personalitzat.",
-            "paragraphs": [
-              "A Toldo-Lux, ens enorgullim de ser líders en la instal·lació de toldos a Calafell. La nostra missió és oferir-te solucions que no només protegeixin els teus espais, sinó que també realcin l'estètica de la teva llar o negoci. Amb una àmplia experiència en el sector, el nostre equip d'experts està llest per assessorar-te a cada pas del procés.",
-              "Per què triar Toldo-Lux per a la instal·lació dels teus toldos? Primer, garantim la qualitat dels nostres materials, seleccionant només aquells que asseguren resistència i durabilitat davant les inclemències del temps. A més, entenem que cada client té necessitats úniques, per la qual cosa oferim dissenys personalitzats que s'adapten al teu estil i a l'arquitectura del teu espai.",
-              "El nostre procés d'instal·lació és ràpid i eficient. Ens encarreguem de cada detall, assegurant que el resultat final sigui impecable i compleixi les teves expectatives. Sabem que l'atenció al client és fonamental, per això a Toldo-Lux estem compromesos a oferir-te un servei excepcional, fins i tot després de la instal·lació.",
-              "Transforma la teva terrassa, balcó o jardí en un lloc acollidor i protegit amb els nostres toldos. Si busques la millor opció en instal·lació de toldos a Calafell, no dubtis a contactar-nos. A Toldo-Lux, som aquí per ajudar-te a gaudir dels teus espais a l'aire lliure de la manera més còmoda i elegant."
-            ]
-          },
-              "instalacion-pergola-bioclimatica-el-vendrell": {
-                "description": "Projecte d'instal·lació d'una pèrgola bioclimàtica a El Vendrell. Sistema de lames orientables que regulen la llum i la ventilació, ideal per gaudir de la terrassa durant tot l'any.",
-                "paragraphs": [
-                  "A Toldo-Lux, ens especialitzem en la instal·lació de pèrgoles bioclimàtiques a El Vendrell, oferint solucions innovadores que et permetran gaudir dels teus espais exteriors durant tot l'any. Les nostres pèrgoles bioclimàtiques estan dissenyades per maximitzar el confort i la funcionalitat, adaptant-se a les condicions climàtiques i a les teves necessitats específiques.",
-                  "Un dels principals avantatges de les nostres pèrgoles bioclimàtiques és la seva capacitat de regulació tèrmica. Gràcies al seu disseny intel·ligent, pots controlar la temperatura i la ventilació, mantenint l'espai fresc a l'estiu i càlid a l'hivern. A més, les lames ajustables et permeten regular l'entrada de llum solar, protegint-te dels rajos UV i creant un ambient agradable en qualsevol moment del dia.",
-                  "A Toldo-Lux, entenem que cada client té gustos i necessitats úniques. Per això, oferim personalització en els nostres dissenys i acabats, assegurant que la teva pèrgola s'integri perfectament amb l'estètica de la teva llar i es converteixi en un element decoratiu i funcional.",
-                  "El nostre equip de professionals s'encarrega de tot el procés d'instal·lació, garantint un resultat d'alta qualitat i un servei excepcional. Utilitzem només els millors materials, assegurant la durabilitat i resistència de les nostres pèrgoles, perquè puguis gaudir del teu espai exterior sense preocupacions.",
-                  "Si vols transformar el teu jardí o terrassa amb una pèrgola bioclimàtica de Toldo-Lux, no esperis més. Contacta'ns avui mateix per obtenir més informació sobre la nostra instal·lació de pèrgola bioclimàtica a El Vendrell. Som aquí per ajudar-te a crear l'espai exterior dels teus somnis, on la comoditat i l'elegància es trobin."
-                ]
-              },
-          "instalacion-toldos-baix-penedes": {
-            "description": "Instal·lació de toldos al Baix Penedès amb disseny a mida i materials d'alta qualitat. Solucions de protecció solar per a terrasses, balcons i comunitats de veïns."
-          },
-          "instalacion-pergolas-bioclimaticas-calafell": {
-            "description": "Instal·lació de pèrgoles bioclimàtiques a Calafell per crear espais exteriors confortables tot l'any. Estructures robustes amb lames orientables i acabats moderns."
-          },
-          "instalacion-pergola-bioclimatica-roda-de-bera": {
-            "description": "Instal·lació d'una pèrgola bioclimàtica a Roda de Berà, dissenyada per protegir del sol i aprofitar la brisa del mar. Un espai exterior elegant, funcional i a mida."
-          },
-          "instalacion-toldo-torredembarra": {
-            "description": "Instal·lació de toldo a Torredembarra fabricat a mida per adaptar-se a l'habitatge i l'entorn. Màxima protecció solar amb un disseny modern i durador."
-          }
-        },
-        "backToGallery": "Tornar a la galeria",
-        "cta": "Sol·licitar pressupost"
+      {
+        "slug": "instalacion-pergola-bioclimatica-el-vendrell",
+        "title": "Instal·lació de pèrgola bioclimàtica a El Vendrell"
       },
+      {
+        "slug": "instalacion-toldos-baix-penedes",
+        "title": "Instal·lació de toldos al Baix Penedès"
+      },
+      {
+        "slug": "instalacion-pergolas-bioclimaticas-calafell",
+        "title": "Instal·lació de pèrgoles bioclimàtiques a Calafell"
+      },
+      {
+        "slug": "instalacion-pergola-bioclimatica-roda-de-bera",
+        "title": "Instal·lació de pèrgola bioclimàtica a Roda de Berà"
+      },
+      {
+        "slug": "instalacion-toldo-torredembarra",
+        "title": "Instal·lació de toldo a Torredembarra"
+      }
+    ],
+    "items": {
+      "instalacion-toldos-calafell": {
+        "description": "Instal·lació de toldos a mida a Calafell per a habitatges, terrasses i negocis. Fabricem i instal·lem toldos tècnics resistents al sol i a la salinitat del mar, amb assessorament personalitzat.",
+        "paragraphs": [
+          "A Toldo-Lux, ens enorgullim de ser líders en la instal·lació de toldos a Calafell. La nostra missió és oferir-te solucions que no només protegeixin els teus espais, sinó que també realcin l'estètica de la teva llar o negoci. Amb una àmplia experiència en el sector, el nostre equip d'experts està llest per assessorar-te a cada pas del procés.",
+          "Per què triar Toldo-Lux per a la instal·lació dels teus toldos? Primer, garantim la qualitat dels nostres materials, seleccionant només aquells que asseguren resistència i durabilitat davant les inclemències del temps. A més, entenem que cada client té necessitats úniques, per la qual cosa oferim dissenys personalitzats que s'adapten al teu estil i a l'arquitectura del teu espai.",
+          "El nostre procés d'instal·lació és ràpid i eficient. Ens encarreguem de cada detall, assegurant que el resultat final sigui impecable i compleixi les teves expectatives. Sabem que l'atenció al client és fonamental, per això a Toldo-Lux estem compromesos a oferir-te un servei excepcional, fins i tot després de la instal·lació.",
+          "Transforma la teva terrassa, balcó o jardí en un lloc acollidor i protegit amb els nostres toldos. Si busques la millor opció en instal·lació de toldos a Calafell, no dubtis a contactar-nos. A Toldo-Lux, som aquí per ajudar-te a gaudir dels teus espais a l'aire lliure de la manera més còmoda i elegant."
+        ]
+      },
+      "instalacion-pergola-bioclimatica-el-vendrell": {
+        "description": "Projecte d'instal·lació d'una pèrgola bioclimàtica a El Vendrell. Sistema de lames orientables que regulen la llum i la ventilació, ideal per gaudir de la terrassa durant tot l'any.",
+        "paragraphs": [
+          "A Toldo-Lux, ens especialitzem en la instal·lació de pèrgoles bioclimàtiques a El Vendrell, oferint solucions innovadores que et permetran gaudir dels teus espais exteriors durant tot l'any. Les nostres pèrgoles bioclimàtiques estan dissenyades per maximitzar el confort i la funcionalitat, adaptant-se a les condicions climàtiques i a les teves necessitats específiques.",
+          "Un dels principals avantatges de les nostres pèrgoles bioclimàtiques és la seva capacitat de regulació tèrmica. Gràcies al seu disseny intel·ligent, pots controlar la temperatura i la ventilació, mantenint l'espai fresc a l'estiu i càlid a l'hivern. A més, les lames ajustables et permeten regular l'entrada de llum solar, protegint-te dels rajos UV i creant un ambient agradable en qualsevol moment del dia.",
+          "A Toldo-Lux, entenem que cada client té gustos i necessitats úniques. Per això, oferim personalització en els nostres dissenys i acabats, assegurant que la teva pèrgola s'integri perfectament amb l'estètica de la teva llar i es converteixi en un element decoratiu i funcional.",
+          "El nostre equip de professionals s'encarrega de tot el procés d'instal·lació, garantint un resultat d'alta qualitat i un servei excepcional. Utilitzem només els millors materials, assegurant la durabilitat i resistència de les nostres pèrgoles, perquè puguis gaudir del teu espai exterior sense preocupacions.",
+          "Si vols transformar el teu jardí o terrassa amb una pèrgola bioclimàtica de Toldo-Lux, no esperis més. Contacta'ns avui mateix per obtenir més informació sobre la nostra instal·lació de pèrgola bioclimàtica a El Vendrell. Som aquí per ajudar-te a crear l'espai exterior dels teus somnis, on la comoditat i l'elegància es trobin."
+        ]
+      },
+      "instalacion-toldos-baix-penedes": {
+        "description": "Instal·lació de toldos al Baix Penedès amb disseny a mida i materials d'alta qualitat. Solucions de protecció solar per a terrasses, balcons i comunitats de veïns."
+      },
+      "instalacion-pergolas-bioclimaticas-calafell": {
+        "description": "Instal·lació de pèrgoles bioclimàtiques a Calafell per crear espais exteriors confortables tot l'any. Estructures robustes amb lames orientables i acabats moderns."
+      },
+      "instalacion-pergola-bioclimatica-roda-de-bera": {
+        "description": "Instal·lació d'una pèrgola bioclimàtica a Roda de Berà, dissenyada per protegir del sol i aprofitar la brisa del mar. Un espai exterior elegant, funcional i a mida."
+      },
+      "instalacion-toldo-torredembarra": {
+        "description": "Instal·lació de toldo a Torredembarra fabricat a mida per adaptar-se a l'habitatge i l'entorn. Màxima protecció solar amb un disseny modern i durador."
+      }
+    },
+    "backToGallery": "Tornar a la galeria",
+    "cta": "Sol·licitar pressupost"
+  },
   "reviews": {
     "title": "El que diuen els nostres clients",
     "subtitle": "Opinions reals publicades a Google per qui ja va confiar en Toldo Lux.",
@@ -184,7 +202,7 @@
     "tagline": "Toldos, pèrgoles i protecció solar a Segur de Calafell.",
     "contact": "Contacte",
     "address": "Segur de Calafell, Tarragona",
-        "phone1": "+34 680 787 990",
+    "phone1": "+34 680 787 990",
     "phone2": "+34 690 38 28 28",
     "email": "info@toldo-lux.com",
     "rights": "Tots els drets reservats.",
@@ -192,5 +210,682 @@
     "legalNotice": "Avís legal",
     "cookiePolicy": "Política de cookies",
     "social": "Xarxes socials"
+  },
+  "legal": {
+    "privacy": {
+      "meta": {
+        "title": "Política de privacitat | Toldo Lux",
+        "description": "Política de privacitat de Toldo Lux: tractament i protecció de dades personals conforme al RGPD i la LOPDGDD."
+      },
+      "heading": "Política de privacitat",
+      "sections": [
+        {
+          "heading": "Política de privacitat",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "El Titular us informa sobre la seva Política de Privacitat quant al tractament i protecció de les dades de caràcter personal dels usuaris que puguin ser recollides durant la navegació a través del Lloc Web: https://toldo-lux.com/"
+            },
+            {
+              "type": "p",
+              "text": "En aquest sentit, el Titular garanteix el compliment de la normativa vigent en matèria de protecció de dades personals, reflectida en la Llei Orgànica 3/2018, de 5 de desembre, de Protecció de Dades Personals i de Garantia de Drets Digitals (LOPDGDD). Així mateix, compleix el Reglament (UE) 2016/679 del Parlament Europeu i del Consell, de 27 d'abril de 2016, relatiu a la protecció de les persones físiques (RGPD)."
+            },
+            {
+              "type": "p",
+              "text": "L'ús del Lloc Web implica l'acceptació d'aquesta Política de Privacitat, així com de les condicions incloses a l'Avís Legal."
+            }
+          ]
+        },
+        {
+          "heading": "Identitat del responsable",
+          "blocks": [
+            {
+              "type": "ul",
+              "items": [
+                "Nom del domini: https://toldo-lux.com/",
+                "Nom / Denominació social: Toldo Lux",
+                "Telèfon: https://toldo-lux.com/",
+                "NIF / CIF: 47633968W",
+                "Adreça: C/ Rumania 22, 43882 Segur de Calafell (Tarragona)",
+                "Correu electrònic: info@toldo-lux.com"
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Principis aplicats en el tractament de dades",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "En el tractament de les vostres dades personals, el Titular aplicarà els principis següents, que s'ajusten a les exigències del nou reglament europeu de protecció de dades (RGPD):"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "Principi de licitud, lleialtat i transparència: el Titular sempre requerirà el consentiment per al tractament de les dades personals, que podrà ser per a una o diverses finalitats específiques sobre les quals el Titular informarà prèviament l'Usuari amb absoluta transparència.",
+                "Principi de minimització de dades: el Titular sol·licitarà únicament les dades estrictament necessàries per a la finalitat o les finalitats que les sol·licita.",
+                "Principi de limitació del termini de conservació: el Titular mantindrà les dades personals recollides durant el temps estrictament necessari per a la finalitat o les finalitats del tractament. El Titular informarà l'Usuari del termini de conservació corresponent segons la finalitat. En el cas de subscripcions, el Titular revisarà periòdicament les llistes i eliminarà aquells registres inactius durant un temps considerable.",
+                "Principi d'integritat i confidencialitat: les dades personals recollides seran tractades de manera que se'n garanteixi la seguretat, confidencialitat i integritat. El Titular pren les precaucions necessàries per evitar l'accés no autoritzat o l'ús indegut de les dades dels seus usuaris per part de tercers."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Obtenció de dades personals",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Per navegar pel Lloc Web no és necessari que faciliteu cap dada personal."
+            }
+          ]
+        },
+        {
+          "heading": "Drets",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "El Titular us informa que, sobre les vostres dades personals, teniu dret a:"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "Sol·licitar l'accés a les dades emmagatzemades.",
+                "Sol·licitar-ne la rectificació o la supressió.",
+                "Sol·licitar la limitació del seu tractament.",
+                "Oposar-vos al tractament."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "No podeu exercir el dret a la portabilitat de les dades."
+            },
+            {
+              "type": "p",
+              "text": "L'exercici d'aquests drets és personal i, per tant, ha de ser exercitat directament per l'interessat, sol·licitant-lo directament al Titular, fet que significa que qualsevol client, subscriptor o col·laborador que hagi facilitat les seves dades en algun moment es pot adreçar al Titular i demanar informació sobre les dades que té emmagatzemades i com les ha obtingut, sol·licitar-ne la rectificació, oposar-se al tractament, limitar-ne l'ús o sol·licitar-ne la supressió dels fitxers del Titular."
+            },
+            {
+              "type": "p",
+              "text": "Per exercir els vostres drets heu d'enviar la vostra petició juntament amb una fotocòpia del Document Nacional d'Identitat o equivalent a l'adreça de correu electrònic que apareix al peu de pàgina d'aquest web."
+            },
+            {
+              "type": "p",
+              "text": "L'exercici d'aquests drets no inclou cap dada que el Titular estigui obligat a conservar amb finalitats administratives, legals o de seguretat."
+            },
+            {
+              "type": "p",
+              "text": "Teniu dret a la tutela judicial efectiva i a presentar una reclamació davant l'autoritat de control, en aquest cas, l'Agència Espanyola de Protecció de Dades, si considereu que el tractament de dades personals que us concerneixen infringeix el Reglament."
+            }
+          ]
+        },
+        {
+          "heading": "Finalitat del tractament de dades personals",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Quan us connecteu al Lloc Web per a enviar un correu al Titular o us subscriviu al seu butlletí, esteu facilitant informació de caràcter personal de la qual el responsable és el Titular. Aquesta informació pot incloure dades de caràcter personal com la vostra adreça IP, nom i cognoms, adreça física, adreça de correu electrònic, número de telèfon i altra informació. En facilitar aquesta informació, doneu el vostre consentiment perquè la vostra informació sigui recopilada, utilitzada, gestionada i emmagatzemada per L'EMPRESA únicament tal com es descriu a les pàgines:"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "Avís Legal",
+                "Política de Privacitat."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Les dades personals i la finalitat del tractament per part del Titular són diferents segons el sistema de captació d'informació:"
+            },
+            {
+              "type": "p",
+              "text": "Existeixen altres finalitats per les quals el Titular tracta dades personals:"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "Per garantir el compliment de les condicions recollides a la pàgina d'Avís Legal i de la llei aplicable. Això pot incloure el desenvolupament d'eines i algoritmes que ajudin el Lloc Web a garantir la confidencialitat de les dades personals que recull.",
+                "Per donar suport i millorar els serveis que ofereix aquest Lloc Web.",
+                "Per analitzar la navegació dels usuaris. El Titular recull altres dades no identificatives que s'obtenen mitjançant l'ús de cookies que es descarreguen a l'ordinador de l'Usuari quan navega pel Lloc Web, les característiques i finalitat de les quals es detallen a la pàgina de Política de Cookies."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Seguretat de les dades personals",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "PER A PROTEGIR LES VOSTRES DADES PERSONALS, EL TITULAR PREN TOTES LES PRECAUCIONS RAONABLES I SEGUEIX LES MILLORS PRÀCTIQUES DE LA INDÚSTRIA PER A EVITAR-NE LA PÈRDUA, EL MAL ÚS, L'ACCÉS INDEGUT, LA DIVULGACIÓ, L'ALTERACIÓ O LA DESTRUCCIÓ."
+            },
+            {
+              "type": "p",
+              "text": "Les vostres dades podran ser incorporades a un fitxer de llista de correu, del qual el Titular n'és responsable de la gestió i el tractament. La seguretat de les vostres dades està garantida, ja que el Titular pren totes les mesures de seguretat necessàries i us garanteix que les dades personals només s'utilitzaran per a les finalitats indicades."
+            },
+            {
+              "type": "p",
+              "text": "El Titular informa l'Usuari que les seves dades personals no seran cedides a terceres organitzacions, amb l'excepció que aquesta cessió de dades estigui emparada per una obligació legal o quan la prestació d'un servei impliqui la necessitat d'una relació contractual amb un encarregat del tractament. En aquest darrer cas, només es durà a terme la cessió de dades al tercer quan el Titular disposi del consentiment exprés de l'Usuari."
+            },
+            {
+              "type": "p",
+              "text": "No obstant això, en alguns casos es poden realitzar col·laboracions amb altres professionals; en aquests casos es requerirà el consentiment de l'Usuari, informant-lo sobre la identitat del col·laborador i la finalitat de la col·laboració. Sempre es realitzarà amb els estàndards de seguretat més estrictes."
+            }
+          ]
+        },
+        {
+          "heading": "Contingut d'altres llocs web",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Les pàgines d'aquest Lloc Web poden incloure contingut incrustat (per exemple, vídeos, imatges, articles, etc.). El contingut incrustat d'altres webs es comporta exactament de la mateixa manera que si haguéssiu visitat l'altra web."
+            },
+            {
+              "type": "p",
+              "text": "Aquests llocs Web poden recopilar dades sobre vós, utilitzar cookies, incrustar un codi de seguiment addicional de tercers i supervisar la vostra interacció fent servir aquest codi."
+            }
+          ]
+        },
+        {
+          "heading": "Política de cookies",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Perquè aquest Lloc Web funcioni correctament necessita utilitzar cookies, que són informació que s'emmagatzema al vostre navegador web. Podeu consultar tota la informació relativa a la política de recollida i tractament de les cookies a la pàgina de Política de Cookies."
+            }
+          ]
+        },
+        {
+          "heading": "Legitimació per al tractament de dades",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "La base legal per al tractament de les vostres dades és: el consentiment de l'interessat."
+            }
+          ]
+        },
+        {
+          "heading": "Categories de dades personals",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Les categories de dades personals que tracta el Titular són:"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "Dades identificatives.",
+                "No es tracten categories de dades especialment protegides."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Conservació de dades personals",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Les dades personals proporcionades al Titular es conservaran fins que en sol·liciteu la supressió."
+            }
+          ]
+        },
+        {
+          "heading": "Navegació Web",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "En navegar pel Lloc Web es poden recollir dades no identificatives, que poden incloure l'adreça IP, la geolocalització, un registre de com s'utilitzen els serveis i llocs, hàbits de navegació i altres dades que no poden ser utilitzades per a identificar-vos."
+            },
+            {
+              "type": "p",
+              "text": "El Lloc Web utilitza els serveis d'anàlisi de tercers següents:"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "El Titular utilitza la informació obtinguda per a obtenir dades estadístiques, analitzar tendències, administrar el lloc, estudiar patrons de navegació i per a recopilar informació demogràfica.",
+                "El Titular no es fa responsable del tractament de les dades personals que realitzin les pàgines web a les quals pugueu accedir a través dels diferents enllaços que conté el Lloc Web."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Exactitud i veracitat de les dades personals",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Us comprometeu a què les dades facilitades al Titular siguin correctes, completes, exactes i vigents, així com a mantenir-les degudament actualitzades."
+            },
+            {
+              "type": "p",
+              "text": "Com a Usuari del Lloc Web sou l'únic responsable de la veracitat i correcció de les dades remeses al Lloc Web, i exempteu el Titular de qualsevol responsabilitat al respecte."
+            }
+          ]
+        },
+        {
+          "heading": "Acceptació i consentiment",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Com a Usuari del Lloc Web declareu haver estat informat de les condicions sobre protecció de dades de caràcter personal, i accepteu i consentiu el tractament de les mateixes per part del Titular en la forma i per a les finalitats indicades en aquesta Política de Privacitat."
+            },
+            {
+              "type": "p",
+              "text": "Per contactar amb el Titular, subscriure-us a un butlletí o fer comentaris en aquest Lloc Web heu d'acceptar la present Política de Privacitat."
+            }
+          ]
+        },
+        {
+          "heading": "Canvis a la política de privacitat",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "El Titular es reserva el dret a modificar la present Política de Privacitat per a adaptar-la a novetats legislatives o jurisprudencials, així com a pràctiques de la indústria."
+            },
+            {
+              "type": "p",
+              "text": "Aquestes polítiques estaran vigents fins que siguin modificades per altres degudament publicades."
+            }
+          ]
+        }
+      ]
+    },
+    "cookies": {
+      "meta": {
+        "title": "Política de cookies | Toldo Lux",
+        "description": "Política de cookies de Toldo Lux: què són, per a què s'utilitzen i com desactivar-les al vostre navegador."
+      },
+      "heading": "Política de cookies",
+      "sections": [
+        {
+          "heading": "Què són les cookies?",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "En anglès, el terme «cookie» significa galeta, però en l'àmbit de la navegació web, una «cookie» és una cosa completament diferent. Quan accediu al nostre Lloc Web, al navegador del vostre dispositiu s'emmagatzema una petita quantitat de text que es denomina «cookie». Aquest text conté informació variada sobre la vostra navegació, hàbits, preferències, personalitzacions de continguts, etc"
+            },
+            {
+              "type": "p",
+              "text": "Existeixen altres tecnologies que funcionen de manera similar i que també s'utilitzen per a recopilar dades sobre la vostra activitat de navegació. Anomenarem «cookies» totes aquestes tecnologies en el seu conjunt."
+            },
+            {
+              "type": "p",
+              "text": "Els usos concrets que fem d'aquestes tecnologies es descriuen en el present document."
+            }
+          ]
+        },
+        {
+          "heading": "Per a què s'utilitzen les cookies en aquesta web?",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Les cookies són una part essencial de com funciona el Lloc Web. L'objectiu principal de les nostres cookies és millorar la vostra experiència en la navegació. Per exemple, per a recordar les vostres preferències (idioma, país, etc.) durant la navegació i en visites futures. La informació recollida en les cookies ens permet a més millorar el web, adaptar-lo als vostres interessos com a usuari, accelerar les cerques que feu, etc."
+            },
+            {
+              "type": "p",
+              "text": "En determinats casos, si hem obtingut el vostre consentiment previ informat, podrem utilitzar cookies per a altres usos, com per exemple per a obtenir informació que ens permeti mostrar-vos publicitat basada en l'anàlisi dels vostres hàbits de navegació."
+            }
+          ]
+        },
+        {
+          "heading": "Per a què NO s'utilitzen les cookies en aquesta web?",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "A les cookies que utilitzem no s'emmagatzema informació sensible d'identificació personal com el vostre nom, adreça, contrasenya, etc"
+            }
+          ]
+        },
+        {
+          "heading": "Qui utilitza la informació emmagatzemada a les cookies?",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "La informació emmagatzemada a les cookies del nostre Lloc Web és utilitzada exclusivament per nosaltres, a excepció d'aquelles identificades més endavant com a «cookie de tercers», que són utilitzades i gestionades per entitats externes que ens proporcionen serveis que milloren l'experiència de l'usuari. Per exemple, les estadístiques que es recullen sobre el nombre de visites, el contingut que més agrada, etc"
+            }
+          ]
+        },
+        {
+          "heading": "Com podeu evitar l'ús de cookies en aquest Lloc Web?",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Si preferiu evitar l'ús de les cookies, podeu REBUTJAR-NE l'ús o podeu CONFIGURAR les que voleu evitar i les que permeteu utilitzar (en aquest document us donem informació ampliada al respecte de cada tipus de cookie, la seva finalitat, destinatari, temporalitat, etc)."
+            },
+            {
+              "type": "p",
+              "text": "Si les heu acceptat, no us tornarem a preguntar tret que esborreu les cookies del vostre dispositiu segons s'indica a l'apartat següent. Si voleu revocar el consentiment haureu d'eliminar les cookies i tornar-les a configurar."
+            }
+          ]
+        },
+        {
+          "heading": "Com desactivo i elimino l'ús de cookies?",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Per a restringir, bloquejar o esborrar les cookies d'aquest Lloc Web (i les utilitzades per tercers) podeu fer-ho, en qualsevol moment, modificant la configuració del vostre navegador. Tingueu en compte que aquesta configuració és diferent en cada navegador."
+            },
+            {
+              "type": "p",
+              "text": "En els enllaços següents trobareu instruccions per a habilitar o desactivar les cookies als navegadors més comuns."
+            },
+            {
+              "type": "ul",
+              "items": [
+                "Firefox",
+                "Google Chrome",
+                "Internet Explorer",
+                "Microsoft Edge",
+                "Safari"
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Quins tipus de cookies s'utilitzen en aquesta pàgina web?",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Cada pàgina web utilitza les seves pròpies cookies. A la nostra web utilitzem les que s'indiquen a continuació:"
+            },
+            {
+              "type": "p",
+              "text": "SEGONS L'ENTITAT QUE LES GESTIONA"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "Cookies pròpies: són aquelles que s'envien a l'equip terminal de l'Usuari des d'un equip o domini gestionat pel propi editor i des del qual es presta el servei sol·licitat per l'Usuari."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Cookies de tercers: són aquelles que s'envien a l'equip terminal de l'Usuari des d'un equip o domini que no és gestionat per l'editor, sinó per una altra entitat que tracta les dades obtingudes a través de les cookies. En el cas que les cookies siguin servides des d'un equip o domini gestionat pel propi editor, però la informació que es reculli mitjançant aquestes sigui gestionada per un tercer, no poden ser considerades com a cookies pròpies si el tercer les utilitza per a les seves pròpies finalitats (per exemple, la millora dels serveis que presta o la prestació de serveis de caràcter publicitari a favor d'altres entitats)."
+            },
+            {
+              "type": "p",
+              "text": "SEGONS LA SEVA FINALITAT"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "Cookies tècniques: són aquelles necessàries per a la navegació i el bon funcionament del nostre Lloc Web, com per exemple controlar el trànsit i la comunicació de dades, identificar la sessió, accedir a parts d'accés restringit, realitzar la sol·licitud d'inscripció o participació en un esdeveniment, comptar visites a efectes de la facturació de llicències del programari amb què funciona el servei del Lloc Web, utilitzar elements de seguretat durant la navegació, emmagatzemar continguts per a la difusió de vídeos o so, habilitar continguts dinàmics (per exemple, animació de càrrega d'un text o imatge).",
+                "Cookies d'anàlisi: permeten quantificar el nombre d'usuaris i així realitzar el mesurament i anàlisi estadístic de la utilització que fan els usuaris del Lloc Web.",
+                "Cookies de preferències o personalització: són aquelles que permeten recordar informació perquè l'Usuari accedeixi al servei amb determinades característiques que poden diferenciar la seva experiència de la d'altres usuaris, com per exemple l'idioma, el nombre de resultats a mostrar quan l'Usuari realitza una cerca, l'aspecte o contingut del servei en funció del tipus de navegador a través del qual l'Usuari accedeix al servei o de la regió des de la qual hi accedeix, etc."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "SEGONS EL TERMINI DE TEMPS QUE ROMANEN ACTIVES"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "Cookies de sessió: són aquelles dissenyades per a recaptar i emmagatzemar dades mentre l'Usuari accedeix a una pàgina web. Se solen emprar per a emmagatzemar informació que només interessa conservar per a la prestació del servei sol·licitat per l'Usuari en una sola ocasió (per exemple, una llista de productes adquirits) i desapareixen en acabar la sessió.",
+                "Cookies persistents: són aquelles en què les dades romanen emmagatzemades al terminal i poden ser accedides i tractades durant un període definit pel responsable de la cookie, i que pot anar d'uns minuts a diversos anys. Al respecte s'ha de valorar específicament si és necessària la utilització de cookies persistents, atès que els riscos per a la privacitat es podrien reduir mitjançant la utilització de cookies de sessió. En tot cas, quan s'instal·lin cookies persistents, es recomana reduir al mínim necessari la seva durada temporal atenent a la finalitat del seu ús. A aquests efectes, el Dictamen 4/2012 del GT29 va indicar que perquè una cookie pugui estar exempta del deure de consentiment informat, la seva caducitat ha d'estar relacionada amb la seva finalitat. A causa d'això, és molt més probable que es considerin com a exceptuades les cookies de sessió que les persistents."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "notice": {
+      "meta": {
+        "title": "Avís legal | Toldo Lux",
+        "description": "Avís legal de Toldo Lux: condicions d'ús, propietat intel·lectual i responsabilitats del lloc web."
+      },
+      "heading": "Avís legal",
+      "sections": [
+        {
+          "heading": "Dades identificatives",
+          "blocks": [
+            {
+              "type": "ul",
+              "items": [
+                "Nom del domini: https://toldo-lux.com/",
+                "Nom / Denominació social: Toldo Lux",
+                "Telèfon: +34 680 78 79 90",
+                "NIF / CIF: 47633968W",
+                "Adreça: C/ Rumania 22, 43882 Segur de Calafell (Tarragona)",
+                "Correu electrònic: info@toldo-lux.com"
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Condicions d'ús",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "L'accés, navegació i utilització del lloc web https://toldo-lux.com (en endavant, el “Lloc Web”) implica l'acceptació expressa i sense reserves de tots els termes de les presents Condicions d'Ús, i la seva observança i compliment serà exigible respecte de qualsevol persona que hi accedeixi, hi navegui o l'utilitzi."
+            },
+            {
+              "type": "p",
+              "text": "A efectes de la interpretació de les presents Condicions d'Ús, entenem que una persona passa a ser “Usuari” en el moment en què accepta les Condicions d'Ús exposades al Lloc Web, bastant per a això que el visiti. Si no esteu d'acord amb els termes exposats, no hi accediu, no hi navegueu ni l'utilitzeu."
+            },
+            {
+              "type": "p",
+              "text": "L'accés i l'ús d'aquest Lloc Web per part de l'Usuari és gratuït i lliure; no obstant això, l'Usuari assumeix la responsabilitat en l'ús del present Lloc Web i es compromet a navegar de bona fe i de forma diligent."
+            },
+            {
+              "type": "p",
+              "text": "En qualsevol moment, el RESPONSABLE pot modificar unilateralment i sense previ avís la presentació i/o configuració del Lloc Web, així com els serveis i continguts que s'hi ofereixen, i es reserva el dret a modificar els termes aquí estipulats."
+            }
+          ]
+        },
+        {
+          "heading": "Drets de propietat intel·lectual i industrial",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "El Lloc Web, incloent-hi a títol enunciatiu però no limitatiu la seva programació, edició, compilació i altres elements necessaris per al seu funcionament, els dissenys, logotips, text i/o gràfics, són propietat del RESPONSABLE o, si és el cas, disposa de llicència o autorització expressa per part dels autors."
+            },
+            {
+              "type": "p",
+              "text": "Tots els continguts del Lloc Web es troben degudament protegits per la normativa de propietat intel·lectual i industrial, així com inscrits als registres públics corresponents."
+            },
+            {
+              "type": "p",
+              "text": "Independentment de la finalitat per a la qual fossin destinats, la reproducció total o parcial, l'ús, l'explotació, la distribució i la comercialització requereixen en tot cas de l'autorització escrita prèvia per part del RESPONSABLE."
+            },
+            {
+              "type": "p",
+              "text": "Qualsevol ús no autoritzat prèviament es considera un incompliment greu dels drets de propietat intel·lectual o industrial de l'autor."
+            },
+            {
+              "type": "p",
+              "text": "Els dissenys, logotips, text i/o gràfics aliens al RESPONSABLE i que poguessin aparèixer al Lloc Web pertanyen als seus respectius propietaris, essent ells mateixos responsables de qualsevol possible controvèrsia que pogués suscitar-se respecte als mateixos."
+            },
+            {
+              "type": "p",
+              "text": "El RESPONSABLE autoritza expressament que tercers puguin redirigir directament als continguts concrets del Lloc Web i, en tot cas, redirigir al lloc web principal."
+            },
+            {
+              "type": "p",
+              "text": "El RESPONSABLE reconeix a favor dels seus titulars els corresponents drets de propietat intel·lectual i industrial, sense que la seva sola menció o aparició al Lloc Web impliqui l'existència de drets o responsabilitat alguna sobre els mateixos, com tampoc recolzament, patrocini o recomanació per part del mateix."
+            },
+            {
+              "type": "p",
+              "text": "Per a realitzar qualsevol tipus d'observació respecte a possibles incompliments dels drets de propietat intel·lectual o industrial, així com sobre qualsevol dels continguts del Lloc Web, podeu fer-ho a través del correu electrònic info@toldo-lux.com"
+            }
+          ]
+        },
+        {
+          "heading": "Exempció de responsabilitats",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "El RESPONSABLE s'eximeix de qualsevol tipus de responsabilitat derivada de la informació publicada al seu Lloc Web, sempre que aquesta informació hagi estat manipulada o introduïda per un tercer aliè al mateix."
+            },
+            {
+              "type": "p",
+              "text": "El RESPONSABLE no pot garantir la invulnerabilitat absoluta dels seus sistemes de seguretat, per la qual cosa exclou qualsevol tipus de responsabilitat per danys i perjudicis de tota naturalesa que puguin deure's a la presència de virus o altres elements que puguin produir alteracions al sistema informàtic (programari i maquinari), documents electrònics i fitxers de l'Usuari o de qualsevol tercer."
+            },
+            {
+              "type": "p",
+              "text": "L'Usuari queda informat que la utilització dels sistemes electrònics de transmissió de dades i del correu electrònic no ofereix garanties absolutes de seguretat."
+            },
+            {
+              "type": "p",
+              "text": "El RESPONSABLE no es fa responsable de la legalitat d'altres llocs web de tercers des dels quals es pugui accedir al Lloc Web, així com tampoc respon per la legalitat d'altres llocs web de tercers que poguessin estar vinculats o enllaçats des del Lloc Web."
+            },
+            {
+              "type": "p",
+              "text": "El RESPONSABLE no serà responsable de l'ús que tercers facin de la informació publicada al Lloc Web, ni tampoc dels danys patits o pèrdues econòmiques que, de forma directa o indirecta, produeixin o puguin produir perjudicis econòmics, materials o sobre dades, provocats per l'ús d'aquesta informació."
+            }
+          ]
+        },
+        {
+          "heading": "Política de cookies",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Podeu consultar la nostra Política de Cookies per a obtenir més informació al respecte de l'ús de cookies al Lloc Web: https://toldo-lux.com/politica-de-cookies/"
+            }
+          ]
+        },
+        {
+          "heading": "Política d'enllaços",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Des del Lloc Web és possible que es redirigeixi a continguts de tercers llocs web."
+            },
+            {
+              "type": "p",
+              "text": "Atès que el RESPONSABLE no pot controlar sempre els continguts introduïts per tercers en els seus respectius llocs web, no assumeix cap tipus de responsabilitat respecte a aquests continguts."
+            },
+            {
+              "type": "p",
+              "text": "En tot cas, procedirà a la retirada immediata de qualsevol contingut que pogués contravenir la legislació nacional o internacional, la moral o l'ordre públic, procedint a la retirada immediata de la redirecció a aquest lloc web, i posant en coneixement de les autoritats competents el contingut en qüestió."
+            },
+            {
+              "type": "p",
+              "text": "El RESPONSABLE no es fa responsable de la informació i continguts emmagatzemats, a títol enunciatiu però no limitatiu, en fòrums, xats, generadors de llocs, comentaris, xarxes socials o qualsevol altre mitjà que permeti a tercers publicar continguts de forma independent al Lloc Web del RESPONSABLE."
+            },
+            {
+              "type": "p",
+              "text": "No obstant això, es posa a disposició de tots els Usuaris, autoritats i forces de seguretat, col·laborant de forma activa en la retirada o, si escau, bloqueig de tots aquells continguts que puguin afectar o contravenir la legislació nacional o internacional, els drets de tercers o la moral i l'ordre públic."
+            },
+            {
+              "type": "p",
+              "text": "En cas que l'Usuari consideri que existeix al Lloc Web algun contingut que pogués ser susceptible d'aquesta classificació, es prega que ho notifiqui de forma immediata a l'administrador del Lloc Web."
+            },
+            {
+              "type": "p",
+              "text": "Aquest Lloc Web ha estat revisat i provat perquè funcioni correctament."
+            },
+            {
+              "type": "p",
+              "text": "No obstant això, el RESPONSABLE no descarta la possibilitat que existeixin certs errors de programació, o que aconteguin causes de força major, catàstrofes naturals, vagues o circumstàncies semblants que facin impossible l'accés al Lloc Web."
+            }
+          ]
+        },
+        {
+          "heading": "Política de privacitat i protecció de dades personals",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Podeu consultar la nostra Política de Privacitat per a obtenir més informació sobre el tractament de les vostres dades personals al Lloc Web: https://toldo-lux.com/politica-de-privacidad/"
+            }
+          ]
+        },
+        {
+          "heading": "Xarxes socials",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "El RESPONSABLE, segons el seu criteri, pot procedir a crear un perfil a les xarxes socials següents: Facebook, Instagram, X (Twitter), LinkedIn, Youtube i TikTok."
+            },
+            {
+              "type": "p",
+              "text": "Per això, exposa a continuació les condicions d'ús que regeixen respecte als perfils a les xarxes socials:"
+            }
+          ]
+        },
+        {
+          "heading": "Utilització del perfil",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "El RESPONSABLE realitzarà les actuacions següents:"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "Accés a la informació pública del perfil.",
+                "Publicació al perfil de l'Usuari de tota aquella informació ja publicada a la xarxa social del RESPONSABLE.",
+                "Enviament de missatges personals i individuals a través dels canals de la xarxa social.",
+                "Actualitzacions de l'estat de la pàgina que es publicaran al perfil de l'Usuari."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "L'Usuari sempre pot controlar les seves connexions, eliminar els continguts que deixin d'interessar-li i restringir amb qui comparteix les seves connexions; per a això haurà d'accedir a la seva configuració de privacitat."
+            }
+          ]
+        },
+        {
+          "heading": "Publicacions",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "L'Usuari, una vegada sigui seguidor o s'hagi unit a la xarxa social del RESPONSABLE, podrà publicar-hi comentaris, enllaços, imatges, fotografies o qualsevol altre tipus de contingut multimèdia suportat per la mateixa."
+            },
+            {
+              "type": "p",
+              "text": "L'Usuari, en tots els casos, ha de ser el titular del contingut publicat, gaudir dels drets d'autor i de propietat intel·lectual o comptar amb el consentiment dels tercers afectats."
+            },
+            {
+              "type": "p",
+              "text": "Es prohibeix expressament qualsevol publicació a la xarxa social, ja siguin textos, gràfics, fotografies, vídeos, etc., que atemptin o siguin susceptibles d'atentar contra la moral, lètica, el bon gust o el decor, i/o que infringeixin, violin o quebrantin els drets de propietat intel·lectual o industrial, el dret a la pròpia imatge o la Llei."
+            },
+            {
+              "type": "p",
+              "text": "En aquests casos, el RESPONSABLE es reserva el dret a retirar immediatament el contingut, sense comunicació prèvia, podent sol·licitar el bloqueig permanent de l'Usuari."
+            },
+            {
+              "type": "p",
+              "text": "El RESPONSABLE no es farà responsable dels continguts que lliurement hagi publicat un Usuari."
+            },
+            {
+              "type": "p",
+              "text": "L'Usuari ha de tenir present que les seves publicacions seran conegudes per altres usuaris, per la qual cosa ell mateix és el principal responsable de la seva privacitat."
+            },
+            {
+              "type": "p",
+              "text": "Les imatges que es puguin publicar a la xarxa social no seran emmagatzemades en cap fitxer per part del RESPONSABLE, però sí que romandran a la xarxa social."
+            }
+          ]
+        },
+        {
+          "heading": "Dades de menors d'edat o persones amb capacitats especials",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "L'accés i el registre a través de les xarxes socials del RESPONSABLE està prohibit a menors de 14 anys."
+            },
+            {
+              "type": "p",
+              "text": "Per la seva part, si l'Usuari té capacitats especials, serà necessària la intervenció del titular de la seva pàtria potestat o tutela, o del seu representant legal mitjançant document vàlid que acrediti la representació."
+            },
+            {
+              "type": "p",
+              "text": "El RESPONSABLE quedarà expressament exonerat de qualsevol responsabilitat que pogués derivar-se de l'ús de les xarxes socials per part de menors o persones amb capacitats especials."
+            },
+            {
+              "type": "p",
+              "text": "Les xarxes socials del RESPONSABLE no recullen conscientment cap informació personal de menors d'edat; per això, si l'Usuari és menor d'edat, no s'hi ha de registrar, ni utilitzar les xarxes socials del RESPONSABLE ni tampoc proporcionar-hi cap informació personal."
+            }
+          ]
+        },
+        {
+          "heading": "Llei aplicable i jurisdicció",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "El present Avís Legal es regeix en tots i cadascun dels seus extrems per la llei espanyola, i per a la resolució de totes les controvèrsies o qüestions relacionades amb el present Lloc Web o de les activitats desenvolupades al mateix, les parts se sotmetran als jutjats i tribunals del domicili de l'Usuari o al lloc del compliment de l'obligació."
+            }
+          ]
+        }
+      ]
+    }
   }
 }

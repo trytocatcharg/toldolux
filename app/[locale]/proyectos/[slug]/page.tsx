@@ -6,8 +6,7 @@ import { ProjectTemplate } from "@/components/ProjectTemplate";
 import { locales, Locale } from "@/lib/i18n";
 import { PROJECT_SLUGS, ProjectSlug, isProjectSlug } from "@/lib/projects";
 import { PROJECT_VISUALS } from "@/lib/projects-content";
-
-const siteUrl = "https://toldo-lux.com";
+import { SITE_URL } from "@/lib/utils";
 
 interface Messages {
   projects: {
@@ -56,7 +55,7 @@ export async function generateMetadata({
       index: false,
       follow: false,
     },
-    metadataBase: new URL(siteUrl),
+    metadataBase: new URL(SITE_URL),
   };
 }
 

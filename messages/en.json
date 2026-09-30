@@ -82,67 +82,85 @@
       }
     },
     "title2": "Toldolux launches special prices for residential communities!",
-"subtitle2": "At <b>TOLDOLUX</b>, a company specialising in <b>custom-made awnings, bioclimatic pergolas and solar protection</b>, we are offering an exclusive special-price campaign for residential communities this season.",
-"subtitle3": "The initiative is aimed at communities looking to improve the <b>comfort</b> and <b>aesthetics</b> of their communal areas, <b>terraces, penthouses, balconies and outdoor spaces</b>, benefiting from preferential conditions and customised solutions.",
-"subtitle4": "Our services include:",
-"subtitle5": "Installation of <b>awnings</b> for façades and balconies.",
-"subtitle6": "State-of-the-art <b>bioclimatic pergolas</b>.",
-"subtitle7": "<b>Motorised and automated</b> systems.",
-"subtitle8": "Technical advice and <b>free</b> measurements.",
-"subtitle9": "<b>Custom-made</b> manufacturing using <b>high-quality</b> materials.",
-"subtitle10": "Our goal is to help communities improve their outdoor spaces through <b>durable, efficient and tailored</b> solutions that meet the needs of each building.",
-"subtitle11": "We want communities to enjoy <b>high-quality</b> solar protection, with <b>professional</b> installations and highly <b>competitive</b> pricing.",
-"subtitle12": "Interested communities can request a <b>no-obligation quote</b> and receive <b>personalised advice.</b>"
+    "subtitle2": "At <b>TOLDOLUX</b>, a company specialising in <b>custom-made awnings, bioclimatic pergolas and solar protection</b>, we are offering an exclusive special-price campaign for residential communities this season.",
+    "subtitle3": "The initiative is aimed at communities looking to improve the <b>comfort</b> and <b>aesthetics</b> of their communal areas, <b>terraces, penthouses, balconies and outdoor spaces</b>, benefiting from preferential conditions and customised solutions.",
+    "subtitle4": "Our services include:",
+    "subtitle5": "Installation of <b>awnings</b> for façades and balconies.",
+    "subtitle6": "State-of-the-art <b>bioclimatic pergolas</b>.",
+    "subtitle7": "<b>Motorised and automated</b> systems.",
+    "subtitle8": "Technical advice and <b>free</b> measurements.",
+    "subtitle9": "<b>Custom-made</b> manufacturing using <b>high-quality</b> materials.",
+    "subtitle10": "Our goal is to help communities improve their outdoor spaces through <b>durable, efficient and tailored</b> solutions that meet the needs of each building.",
+    "subtitle11": "We want communities to enjoy <b>high-quality</b> solar protection, with <b>professional</b> installations and highly <b>competitive</b> pricing.",
+    "subtitle12": "Interested communities can request a <b>no-obligation quote</b> and receive <b>personalised advice.</b>"
   },
-      "gallery": {
-        "title": "Gallery",
-        "subtitle": "Some of our awning and pergola installations completed in the Segur de Calafell area."
+  "gallery": {
+    "title": "Gallery",
+    "subtitle": "Some of our awning and pergola installations completed in the Segur de Calafell area."
+  },
+  "projects": {
+    "menu": [
+      {
+        "slug": "instalacion-toldos-calafell",
+        "title": "Awning installation in Calafell"
       },
-      "projects": {
-        "menu": [
-          { "slug": "instalacion-toldos-calafell", "title": "Awning installation in Calafell" },
-          { "slug": "instalacion-pergola-bioclimatica-el-vendrell", "title": "Bioclimatic pergola installation in El Vendrell" },
-          { "slug": "instalacion-toldos-baix-penedes", "title": "Awning installation in Baix Penedès" },
-          { "slug": "instalacion-pergolas-bioclimaticas-calafell", "title": "Bioclimatic pergolas installation in Calafell" },
-          { "slug": "instalacion-pergola-bioclimatica-roda-de-bera", "title": "Bioclimatic pergola installation in Roda de Berà" },
-          { "slug": "instalacion-toldo-torredembarra", "title": "Awning installation in Torredembarra" }
-        ],
-        "items": {
-          "instalacion-toldos-calafell": {
-            "description": "Custom awning installation in Calafell for homes, terraces and businesses. We manufacture and install technical awnings resistant to sun and sea salinity, with personalized advice.",
-            "paragraphs": [
-              "At Toldo-Lux, we pride ourselves on being leaders in awning installation in Calafell. Our mission is to offer you solutions that not only protect your spaces, but also enhance the aesthetics of your home or business. With extensive experience in the sector, our team of experts is ready to advise you at every step of the process.",
-              "Why choose Toldo-Lux for your awning installation? First, we guarantee the quality of our materials, selecting only those that ensure resistance and durability against the elements. In addition, we understand that each client has unique needs, which is why we offer custom designs that adapt to your style and the architecture of your space.",
-              "Our installation process is fast and efficient. We take care of every detail, ensuring that the final result is impeccable and meets your expectations. We know that customer service is fundamental, which is why at Toldo-Lux we are committed to providing you with exceptional service, even after installation.",
-              "Transform your terrace, balcony or garden into a cozy, protected place with our awnings. If you are looking for the best option in awning installation in Calafell, do not hesitate to contact us. At Toldo-Lux, we are here to help you enjoy your outdoor spaces in the most comfortable and elegant way."
-            ]
-          },
-              "instalacion-pergola-bioclimatica-el-vendrell": {
-                "description": "Bioclimatic pergola installation project in El Vendrell. An adjustable louver system that regulates light and ventilation, ideal for enjoying your terrace all year round.",
-                "paragraphs": [
-                  "At Toldo-Lux, we specialize in the installation of bioclimatic pergolas in El Vendrell, offering innovative solutions that will allow you to enjoy your outdoor spaces all year round. Our bioclimatic pergolas are designed to maximize comfort and functionality, adapting to weather conditions and your specific needs.",
-                  "One of the main advantages of our bioclimatic pergolas is their thermal regulation capacity. Thanks to their intelligent design, you can control the temperature and ventilation, keeping the space cool in summer and warm in winter. In addition, the adjustable louvers allow you to regulate the entry of sunlight, protecting you from UV rays and creating a pleasant atmosphere at any time of day.",
-                  "At Toldo-Lux, we understand that every client has unique tastes and needs. That is why we offer customization in our designs and finishes, ensuring that your pergola blends perfectly with the aesthetics of your home and becomes a decorative and functional element.",
-                  "Our team of professionals takes care of the entire installation process, guaranteeing a high-quality result and exceptional service. We use only the best materials, ensuring the durability and resistance of our pergolas, so that you can enjoy your outdoor space without worries.",
-                  "If you want to transform your garden or terrace with a Toldo-Lux bioclimatic pergola, do not wait any longer. Contact us today for more information about our bioclimatic pergola installation in El Vendrell. We are here to help you create the outdoor space of your dreams, where comfort and elegance meet."
-                ]
-              },
-          "instalacion-toldos-baix-penedes": {
-            "description": "Awning installation in Baix Penedès with custom design and high-quality materials. Sun protection solutions for terraces, balconies and homeowners' communities."
-          },
-          "instalacion-pergolas-bioclimaticas-calafell": {
-            "description": "Bioclimatic pergola installation in Calafell to create comfortable outdoor spaces all year round. Robust structures with adjustable louvers and modern finishes."
-          },
-          "instalacion-pergola-bioclimatica-roda-de-bera": {
-            "description": "Bioclimatic pergola installation in Roda de Berà, designed to protect from the sun and make the most of the sea breeze. An elegant, functional, custom outdoor space."
-          },
-          "instalacion-toldo-torredembarra": {
-            "description": "Awning installation in Torredembarra, custom-made to fit the home and its surroundings. Maximum sun protection with a modern, durable design."
-          }
-        },
-        "backToGallery": "Back to gallery",
-        "cta": "Request a quote"
+      {
+        "slug": "instalacion-pergola-bioclimatica-el-vendrell",
+        "title": "Bioclimatic pergola installation in El Vendrell"
       },
+      {
+        "slug": "instalacion-toldos-baix-penedes",
+        "title": "Awning installation in Baix Penedès"
+      },
+      {
+        "slug": "instalacion-pergolas-bioclimaticas-calafell",
+        "title": "Bioclimatic pergolas installation in Calafell"
+      },
+      {
+        "slug": "instalacion-pergola-bioclimatica-roda-de-bera",
+        "title": "Bioclimatic pergola installation in Roda de Berà"
+      },
+      {
+        "slug": "instalacion-toldo-torredembarra",
+        "title": "Awning installation in Torredembarra"
+      }
+    ],
+    "items": {
+      "instalacion-toldos-calafell": {
+        "description": "Custom awning installation in Calafell for homes, terraces and businesses. We manufacture and install technical awnings resistant to sun and sea salinity, with personalized advice.",
+        "paragraphs": [
+          "At Toldo-Lux, we pride ourselves on being leaders in awning installation in Calafell. Our mission is to offer you solutions that not only protect your spaces, but also enhance the aesthetics of your home or business. With extensive experience in the sector, our team of experts is ready to advise you at every step of the process.",
+          "Why choose Toldo-Lux for your awning installation? First, we guarantee the quality of our materials, selecting only those that ensure resistance and durability against the elements. In addition, we understand that each client has unique needs, which is why we offer custom designs that adapt to your style and the architecture of your space.",
+          "Our installation process is fast and efficient. We take care of every detail, ensuring that the final result is impeccable and meets your expectations. We know that customer service is fundamental, which is why at Toldo-Lux we are committed to providing you with exceptional service, even after installation.",
+          "Transform your terrace, balcony or garden into a cozy, protected place with our awnings. If you are looking for the best option in awning installation in Calafell, do not hesitate to contact us. At Toldo-Lux, we are here to help you enjoy your outdoor spaces in the most comfortable and elegant way."
+        ]
+      },
+      "instalacion-pergola-bioclimatica-el-vendrell": {
+        "description": "Bioclimatic pergola installation project in El Vendrell. An adjustable louver system that regulates light and ventilation, ideal for enjoying your terrace all year round.",
+        "paragraphs": [
+          "At Toldo-Lux, we specialize in the installation of bioclimatic pergolas in El Vendrell, offering innovative solutions that will allow you to enjoy your outdoor spaces all year round. Our bioclimatic pergolas are designed to maximize comfort and functionality, adapting to weather conditions and your specific needs.",
+          "One of the main advantages of our bioclimatic pergolas is their thermal regulation capacity. Thanks to their intelligent design, you can control the temperature and ventilation, keeping the space cool in summer and warm in winter. In addition, the adjustable louvers allow you to regulate the entry of sunlight, protecting you from UV rays and creating a pleasant atmosphere at any time of day.",
+          "At Toldo-Lux, we understand that every client has unique tastes and needs. That is why we offer customization in our designs and finishes, ensuring that your pergola blends perfectly with the aesthetics of your home and becomes a decorative and functional element.",
+          "Our team of professionals takes care of the entire installation process, guaranteeing a high-quality result and exceptional service. We use only the best materials, ensuring the durability and resistance of our pergolas, so that you can enjoy your outdoor space without worries.",
+          "If you want to transform your garden or terrace with a Toldo-Lux bioclimatic pergola, do not wait any longer. Contact us today for more information about our bioclimatic pergola installation in El Vendrell. We are here to help you create the outdoor space of your dreams, where comfort and elegance meet."
+        ]
+      },
+      "instalacion-toldos-baix-penedes": {
+        "description": "Awning installation in Baix Penedès with custom design and high-quality materials. Sun protection solutions for terraces, balconies and homeowners' communities."
+      },
+      "instalacion-pergolas-bioclimaticas-calafell": {
+        "description": "Bioclimatic pergola installation in Calafell to create comfortable outdoor spaces all year round. Robust structures with adjustable louvers and modern finishes."
+      },
+      "instalacion-pergola-bioclimatica-roda-de-bera": {
+        "description": "Bioclimatic pergola installation in Roda de Berà, designed to protect from the sun and make the most of the sea breeze. An elegant, functional, custom outdoor space."
+      },
+      "instalacion-toldo-torredembarra": {
+        "description": "Awning installation in Torredembarra, custom-made to fit the home and its surroundings. Maximum sun protection with a modern, durable design."
+      }
+    },
+    "backToGallery": "Back to gallery",
+    "cta": "Request a quote"
+  },
   "reviews": {
     "title": "What our clients say",
     "subtitle": "Real reviews published on Google by those who already trusted Toldo Lux.",
@@ -184,7 +202,7 @@
     "tagline": "Awnings, pergolas and sun protection in Segur de Calafell.",
     "contact": "Contact",
     "address": "Segur de Calafell, Tarragona",
-        "phone1": "+34 680 787 990",
+    "phone1": "+34 680 787 990",
     "phone2": "+34 690 38 28 28",
     "email": "info@toldo-lux.com",
     "rights": "All rights reserved.",
@@ -192,5 +210,682 @@
     "legalNotice": "Legal notice",
     "cookiePolicy": "Cookie policy",
     "social": "Social media"
+  },
+  "legal": {
+    "privacy": {
+      "meta": {
+        "title": "Privacy Policy | Toldo Lux",
+        "description": "Toldo Lux Privacy Policy: processing and protection of personal data in accordance with the GDPR and the LOPD GDD."
+      },
+      "heading": "Privacy Policy",
+      "sections": [
+        {
+          "heading": "Privacy Policy",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "The CONTROLLER hereby informs you of its Privacy Policy regarding the processing and protection of personal data of users that may be collected during browsing of the Website: https://toldo-lux.com/"
+            },
+            {
+              "type": "p",
+              "text": "In this regard, the CONTROLLER guarantees compliance with the legislation in force on the protection of personal data, as reflected in Organic Law 3/2018, of 5 December, on the Protection of Personal Data and the Guarantee of Digital Rights (LOPD GDD). It also complies with Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons (GDPR)."
+            },
+            {
+              "type": "p",
+              "text": "Use of the Website implies acceptance of this Privacy Policy as well as the conditions included in the Legal Notice."
+            }
+          ]
+        },
+        {
+          "heading": "Identity of the controller",
+          "blocks": [
+            {
+              "type": "ul",
+              "items": [
+                "Domain name: https://toldo-lux.com/",
+                "Name / Corporate name: Toldo Lux",
+                "Telephone: https://toldo-lux.com/",
+                "Tax ID (NIF / CIF): 47633968W",
+                "Address: C/ Rumania 22, 43882 Segur de Calafell (Tarragona)",
+                "Email: info@toldo-lux.com"
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Principles applied in the processing of data",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "In the processing of your personal data, the CONTROLLER shall apply the following principles, which conform to the requirements of the new European data protection regulation (GDPR):"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "Principle of lawfulness, fairness and transparency: The CONTROLLER shall always require consent for the processing of personal data, which may be given for one or more specific purposes about which the CONTROLLER shall inform the User beforehand with absolute transparency.",
+                "Principle of data minimisation: The CONTROLLER shall request only the data strictly necessary for the purpose or purposes for which they are requested.",
+                "Principle of storage limitation: The CONTROLLER shall retain the personal data collected for the time strictly necessary for the purpose or purposes of the processing. The CONTROLLER shall inform the User of the applicable retention period according to the purpose. In the case of subscriptions, the CONTROLLER shall periodically review the lists and delete those records that have been inactive for a considerable time.",
+                "Principle of integrity and confidentiality: The personal data collected shall be processed in such a way that their security, confidentiality and integrity are guaranteed. The CONTROLLER takes the necessary precautions to prevent unauthorised access to, or misuse of, user data by third parties."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Obtaining personal data",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "In order to browse the Website, it is not necessary for you to provide any personal data."
+            }
+          ]
+        },
+        {
+          "heading": "Rights",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "The CONTROLLER hereby informs you that, with regard to your personal data, you have the right to:"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "Request access to the stored data.",
+                "Request rectification or erasure.",
+                "Request the restriction of the processing.",
+                "Object to the processing."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "You may not exercise the right to data portability."
+            },
+            {
+              "type": "p",
+              "text": "The exercise of these rights is personal and must therefore be exercised directly by the data subject, by submitting the request directly to the CONTROLLER. This means that any customer, subscriber or collaborator who has provided their data at any time may contact the CONTROLLER and request information about the data stored and how they were obtained, request their rectification, object to the processing, restrict their use, or request the erasure of such data from the CONTROLLER's files."
+            },
+            {
+              "type": "p",
+              "text": "To exercise your rights, you must send your request together with a photocopy of your National Identity Document or equivalent to the email address shown in the footer of this website."
+            },
+            {
+              "type": "p",
+              "text": "The exercise of these rights does not include any data that the CONTROLLER is obliged to retain for administrative, legal or security purposes."
+            },
+            {
+              "type": "p",
+              "text": "You have the right to effective judicial protection and to lodge a complaint with the supervisory authority, in this case the Spanish Data Protection Agency (Agencia Española de Protección de Datos), if you consider that the processing of personal data concerning you infringes the Regulation."
+            }
+          ]
+        },
+        {
+          "heading": "Purpose of the processing of personal data",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "When you connect to the Website to send an email to the CONTROLLER or subscribe to their newsletter, you are providing personal information for which the CONTROLLER is the data controller. This information may include personal data such as your IP address, first name and surname, physical address, email address, telephone number, and other information. By providing this information, you consent to its being collected, used, managed and stored by THE COMPANY solely as described on the pages:"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "Legal Notice",
+                "Privacy Policy."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "The personal data and the purpose of the processing by the CONTROLLER differ depending on the information capture system:"
+            },
+            {
+              "type": "p",
+              "text": "There are other purposes for which the CONTROLLER processes personal data:"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "To ensure compliance with the conditions set out on the Legal Notice page and with the applicable law. This may include the development of tools and algorithms that help the Website guarantee the confidentiality of the personal data it collects.",
+                "To support and improve the services offered by this Website.",
+                "To analyse user browsing. The CONTROLLER collects other non-identifying data obtained through the use of cookies that are downloaded to the User's computer when browsing the Website, the characteristics and purpose of which are detailed on the Cookies Policy page."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Security of personal data",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "TO PROTECT YOUR PERSONAL DATA, THE CONTROLLER TAKES ALL REASONABLE PRECAUTIONS AND FOLLOWS INDUSTRY BEST PRACTICES TO PREVENT THEIR LOSS, MISUSE, UNAUTHORISED ACCESS, DISCLOSURE, ALTERATION OR DESTRUCTION."
+            },
+            {
+              "type": "p",
+              "text": "Your data may be added to a mailing list file, for the management and processing of which the CONTROLLER is responsible. The security of your data is guaranteed, as the CONTROLLER takes all necessary security measures and guarantees that personal data shall be used only for the stated purposes."
+            },
+            {
+              "type": "p",
+              "text": "The CONTROLLER informs the User that their personal data shall not be disclosed to third-party organisations, except where such disclosure is covered by a legal obligation or where the provision of a service necessitates a contractual relationship with a data processor. In the latter case, the disclosure of data to the third party shall only take place when the CONTROLLER has the express consent of the User."
+            },
+            {
+              "type": "p",
+              "text": "However, in some cases collaborations with other professionals may take place; in such cases, the User's consent shall be required, informing them of the identity of the collaborator and the purpose of the collaboration. This shall always be carried out in accordance with the strictest security standards."
+            }
+          ]
+        },
+        {
+          "heading": "Content from other websites",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "The pages of this Website may include embedded content (for example, videos, images, articles, etc.). Embedded content from other websites behaves in exactly the same way as if you had visited the other website."
+            },
+            {
+              "type": "p",
+              "text": "These websites may collect data about you, use cookies, embed additional third-party tracking code, and monitor your interaction using this code."
+            }
+          ]
+        },
+        {
+          "heading": "Cookies Policy",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "In order for this Website to function properly, it needs to use cookies, which is information stored in your web browser. You may consult all information relating to the policy on the collection and processing of cookies on the Cookies Policy page."
+            }
+          ]
+        },
+        {
+          "heading": "Legal basis for the processing of data",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "The legal basis for the processing of your data is: the consent of the data subject."
+            }
+          ]
+        },
+        {
+          "heading": "Categories of personal data",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "The categories of personal data processed by the CONTROLLER are:"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "Identifying data.",
+                "No specially protected categories of data are processed."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Retention of personal data",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "The personal data provided to the CONTROLLER shall be retained until you request their erasure."
+            }
+          ]
+        },
+        {
+          "heading": "Web browsing",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "When browsing the Website, non-identifying data may be collected, which may include the IP address, geolocation, a record of how the services and sites are used, browsing habits, and other data that cannot be used to identify you."
+            },
+            {
+              "type": "p",
+              "text": "The Website uses the following third-party analytics services:"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "The CONTROLLER uses the information obtained to produce statistical data, analyse trends, administer the site, study browsing patterns, and to collect demographic information.",
+                "The CONTROLLER is not responsible for the processing of personal data carried out by the websites that may be accessed through the various links contained on the Website."
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Accuracy and truthfulness of personal data",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "You undertake that the data provided to the CONTROLLER shall be correct, complete, accurate and current, and to keep them duly updated."
+            },
+            {
+              "type": "p",
+              "text": "As a User of the Website, you are solely responsible for the truthfulness and correctness of the data submitted to the Website, and you hereby release the CONTROLLER from any liability in this regard."
+            }
+          ]
+        },
+        {
+          "heading": "Acceptance and consent",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "As a User of the Website, you declare that you have been informed of the conditions on the protection of personal data, and you accept and consent to the processing thereof by the CONTROLLER in the manner and for the purposes stated in this Privacy Policy."
+            },
+            {
+              "type": "p",
+              "text": "In order to contact the CONTROLLER, subscribe to a newsletter, or post comments on this Website, you must accept this Privacy Policy."
+            }
+          ]
+        },
+        {
+          "heading": "Changes to the Privacy Policy",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "The CONTROLLER reserves the right to modify this Privacy Policy to adapt it to legislative or judicial developments, as well as to industry practices."
+            },
+            {
+              "type": "p",
+              "text": "These policies shall remain in force until they are modified by others duly published."
+            }
+          ]
+        }
+      ]
+    },
+    "cookies": {
+      "meta": {
+        "title": "Cookie Policy | Toldo Lux",
+        "description": "Toldo Lux Cookie Policy: what they are, what they are used for and how to disable them in your browser."
+      },
+      "heading": "Cookie Policy",
+      "sections": [
+        {
+          "heading": "What are cookies?",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "In everyday English, the term “cookie” means a biscuit, but in the context of web browsing, a “cookie” is something completely different. When you access our Website, a small amount of text called a “cookie” is stored in your device's browser. This text contains varied information about your browsing, habits, preferences, content customisations, etc."
+            },
+            {
+              "type": "p",
+              "text": "There are other technologies that work in a similar way and are also used to collect data about your browsing activity. We shall refer to all of these technologies collectively as “cookies”."
+            },
+            {
+              "type": "p",
+              "text": "The specific uses we make of these technologies are described in this document."
+            }
+          ]
+        },
+        {
+          "heading": "What are cookies used for on this website?",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Cookies are an essential part of how the Website works. The main purpose of our cookies is to improve your browsing experience. For example, to remember your preferences (language, country, etc.) during browsing and on future visits. The information collected in the cookies also allows us to improve the website, adapt it to your interests as a user, speed up the searches you perform, etc."
+            },
+            {
+              "type": "p",
+              "text": "In certain cases, if we have obtained your prior informed consent, we may use cookies for other purposes, such as obtaining information that allows us to show you advertising based on the analysis of your browsing habits."
+            }
+          ]
+        },
+        {
+          "heading": "What are cookies NOT used for on this website?",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "The cookies we use do not store sensitive personally identifying information such as your name, address, your password, etc."
+            }
+          ]
+        },
+        {
+          "heading": "Who uses the information stored in the cookies?",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "The information stored in the cookies on our Website is used exclusively by us, with the exception of those identified below as “third-party cookies”, which are used and managed by external entities that provide us with services that improve the user experience. For example, the statistics collected on the number of visits, the most-liked content, etc."
+            }
+          ]
+        },
+        {
+          "heading": "How can you prevent the use of cookies on this Website?",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "If you prefer to avoid the use of cookies, you can REJECT their use, or you can CONFIGURE which ones you wish to prevent and which ones you allow to be used (in this document we provide you with detailed information about each type of cookie, its purpose, recipient, duration, etc.)."
+            },
+            {
+              "type": "p",
+              "text": "If you have accepted them, we will not ask you again unless you delete the cookies on your device as indicated in the following section. If you wish to withdraw your consent, you must delete the cookies and configure them again."
+            }
+          ]
+        },
+        {
+          "heading": "How do I disable and delete the use of cookies?",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "To restrict, block or delete the cookies from this Website (and those used by third parties), you may do so at any time by modifying your browser settings. Please note that this configuration is different in each browser."
+            },
+            {
+              "type": "p",
+              "text": "In the following links you will find instructions for enabling or disabling cookies in the most common browsers."
+            },
+            {
+              "type": "ul",
+              "items": [
+                "Firefox",
+                "Google Chrome",
+                "Internet Explorer",
+                "Microsoft Edge",
+                "Safari"
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "What types of cookies are used on this website?",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Each website uses its own cookies. On our website we use those indicated below:"
+            },
+            {
+              "type": "p",
+              "text": "ACCORDING TO THE ENTITY THAT MANAGES THEM"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "First-party cookies: These are cookies that are sent to the User's terminal equipment from a computer or domain managed by the publisher itself and from which the service requested by the User is provided."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "Third-party cookies: These are cookies that are sent to the User's terminal equipment from a computer or domain that is not managed by the publisher, but by another entity that processes the data obtained through the cookies. In the event that the cookies are served from a computer or domain managed by the publisher itself, but the information collected through them is managed by a third party, they cannot be considered first-party cookies if the third party uses them for its own purposes (for example, the improvement of the services it provides or the provision of advertising services on behalf of other entities)."
+            },
+            {
+              "type": "p",
+              "text": "ACCORDING TO THEIR PURPOSE"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "Technical cookies: These are cookies necessary for browsing and for the proper functioning of our Website, such as, for example, controlling traffic and data communication, identifying the session, accessing restricted-access areas, processing the registration request or participation in an event, counting visits for the purposes of billing licences for the software with which the Website service operates, using security elements during browsing, storing content for the dissemination of videos or sound, or enabling dynamic content (for example, an animation for loading text or an image).",
+                "Analytics cookies: These allow the number of users to be quantified and thus enable the measurement and statistical analysis of the use made by users of the Website.",
+                "Preference or personalisation cookies: These are cookies that allow information to be remembered so that the User accesses the service with certain characteristics that may differentiate their experience from that of other users, such as, for example, the language, the number of results to be displayed when the User performs a search, the appearance or content of the service depending on the type of browser through which the User accesses the service or the region from which they access the service, etc."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "ACCORDING TO THE PERIOD OF TIME THEY REMAIN ACTIVE"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "Session cookies: These are cookies designed to collect and store data while the User accesses a website. They are usually used to store information that is only of interest to keep for the provision of the service requested by the User on a single occasion (for example, a list of purchased products) and they disappear at the end of the session.",
+                "Persistent cookies: These are cookies in which the data remain stored on the terminal and can be accessed and processed for a period defined by the cookie controller, which can range from a few minutes to several years. In this regard, it should be specifically assessed whether the use of persistent cookies is necessary, since the privacy risks could be reduced through the use of session cookies. In any case, when persistent cookies are installed, it is recommended to reduce their duration to the minimum necessary in light of the purpose of their use. To these ends, Opinion 4/2012 of the Article 29 Data Protection Working Party (GT29) stated that, for a cookie to be exempt from the duty of informed consent, its expiry must be related to its purpose. For this reason, session cookies are far more likely to be considered exempt than persistent cookies."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "notice": {
+      "meta": {
+        "title": "Legal Notice | Toldo Lux",
+        "description": "Toldo Lux Legal Notice: terms of use, intellectual property and liabilities of the website."
+      },
+      "heading": "Legal Notice",
+      "sections": [
+        {
+          "heading": "Identifying details",
+          "blocks": [
+            {
+              "type": "ul",
+              "items": [
+                "Domain name: https://toldo-lux.com/",
+                "Name / Corporate name: Toldo Lux",
+                "Telephone: +34 680 78 79 90",
+                "Tax ID (NIF / CIF): 47633968W",
+                "Address: C/ Rumania 22, 43882 Segur de Calafell (Tarragona)",
+                "Email: info@toldo-lux.com"
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Terms of Use",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Access to, browsing of, and use of the website https://toldo-lux.com (hereinafter, “the Website”) implies the express and unreserved acceptance of all the terms of these Terms of Use, and their observance and compliance shall be enforceable against any person who accesses, browses or uses the Website."
+            },
+            {
+              "type": "p",
+              "text": "For the purposes of interpreting these Terms of Use, it is understood that a person becomes a “User” at the moment they accept the Terms of Use set out on the Website, which they do simply by visiting it. If you do not agree with the terms set out, do not access, browse or use the Website."
+            },
+            {
+              "type": "p",
+              "text": "Access to and use of this Website by the User is free of charge and unrestricted; nevertheless, the User assumes responsibility for the use of this Website and undertakes to browse in good faith and diligently."
+            },
+            {
+              "type": "p",
+              "text": "At any time, the CONTROLLER may unilaterally and without prior notice modify the presentation and/or configuration of the Website, as well as the services and content offered thereon, and reserves the right to modify the terms stipulated herein."
+            }
+          ]
+        },
+        {
+          "heading": "Intellectual and industrial property rights",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "The Website, including, by way of example but not limitation, its programming, editing, compilation and other elements necessary for its operation, the designs, logos, text and/or graphics, is the property of the CONTROLLER or, where applicable, the CONTROLLER holds a licence or express authorisation from the authors."
+            },
+            {
+              "type": "p",
+              "text": "All the contents of the Website are duly protected by intellectual and industrial property legislation, and are registered in the corresponding public registers."
+            },
+            {
+              "type": "p",
+              "text": "Regardless of the purpose for which they were intended, the total or partial reproduction, use, exploitation, distribution and commercialisation of the contents of the Website shall in all cases require the prior written authorisation of the CONTROLLER."
+            },
+            {
+              "type": "p",
+              "text": "Any use not previously authorised shall be considered a serious breach of the author's intellectual or industrial property rights."
+            },
+            {
+              "type": "p",
+              "text": "The designs, logos, text and/or graphics not belonging to the CONTROLLER that may appear on the Website belong to their respective owners, who are themselves responsible for any possible controversy that may arise in relation to them."
+            },
+            {
+              "type": "p",
+              "text": "The CONTROLLER expressly authorises third parties to redirect directly to the specific contents of the Website, and in any case to redirect to the main website."
+            },
+            {
+              "type": "p",
+              "text": "The CONTROLLER acknowledges in favour of their owners the corresponding intellectual and industrial property rights; their mere mention or appearance on the Website does not imply the existence of any rights or liability whatsoever in respect thereof, nor any endorsement, sponsorship or recommendation thereof by the CONTROLLER."
+            },
+            {
+              "type": "p",
+              "text": "To make any kind of observation regarding possible infringements of intellectual or industrial property rights, or regarding any of the contents of the Website, you may do so via the email address info@toldo-lux.com"
+            }
+          ]
+        },
+        {
+          "heading": "Disclaimer of liability",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "The CONTROLLER disclaims any type of liability arising from the information published on its Website, provided that such information has been manipulated or introduced by a third party unrelated to it."
+            },
+            {
+              "type": "p",
+              "text": "The CONTROLLER cannot guarantee the absolute invulnerability of its security systems, and therefore excludes any type of liability for damages of any nature that may be due to the presence of viruses or other elements that may produce alterations in the User's or any third party's computer system (software and hardware), electronic documents and files."
+            },
+            {
+              "type": "p",
+              "text": "The User is hereby informed that the use of electronic data transmission systems and email does not offer absolute guarantees of security."
+            },
+            {
+              "type": "p",
+              "text": "The CONTROLLER shall not be responsible for the legality of other third-party websites from which the Website may be accessed, nor shall it answer for the legality of other third-party websites that may be linked or hyperlinked from the Website."
+            },
+            {
+              "type": "p",
+              "text": "The CONTROLLER shall not be liable for the use that third parties make of the information published on the Website, nor for the damages suffered or economic losses that, directly or indirectly, produce or may produce economic, material or data-related harm, caused by the use of such information."
+            }
+          ]
+        },
+        {
+          "heading": "Cookies Policy",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "You may consult our Cookies Policy for further information on the use of cookies on the Website: https://toldo-lux.com/politica-de-cookies/"
+            }
+          ]
+        },
+        {
+          "heading": "Link policy",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "From the Website it is possible to be redirected to the contents of third-party websites."
+            },
+            {
+              "type": "p",
+              "text": "Since the CONTROLLER cannot always control the contents introduced by third parties on their respective websites, it does not assume any type of liability in respect of such contents."
+            },
+            {
+              "type": "p",
+              "text": "In any case, the CONTROLLER shall proceed to the immediate removal of any content that may contravene national or international legislation, morality or public order, and shall immediately remove the redirection to such website, notifying the competent authorities of the content in question."
+            },
+            {
+              "type": "p",
+              "text": "The CONTROLLER shall not be liable for the information and content stored, by way of example but not limitation, in forums, chats, website generators, comments, social networks or any other medium that allows third parties to publish contents independently on the CONTROLLER's Website."
+            },
+            {
+              "type": "p",
+              "text": "Nevertheless, the CONTROLLER makes itself available to all Users, authorities and security forces, actively collaborating in the removal or, where appropriate, blocking of all those contents that may affect or contravene national or international legislation, the rights of third parties, or morality and public order."
+            },
+            {
+              "type": "p",
+              "text": "In the event that the User considers that any content on the Website may be susceptible to such classification, they are kindly requested to notify the Website administrator immediately."
+            },
+            {
+              "type": "p",
+              "text": "This Website has been reviewed and tested to ensure that it functions correctly."
+            },
+            {
+              "type": "p",
+              "text": "Nevertheless, the CONTROLLER does not rule out the possibility that certain programming errors may exist, or that events of force majeure, natural disasters, strikes or similar circumstances may occur that make access to the Website impossible."
+            }
+          ]
+        },
+        {
+          "heading": "Privacy Policy and protection of personal data",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "You may consult our Privacy Policy for further information on the processing of your personal data on the Website: https://toldo-lux.com/politica-de-privacidad/"
+            }
+          ]
+        },
+        {
+          "heading": "Social networks",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "At its discretion, the CONTROLLER may create a profile on the following social networks: Facebook, Instagram, X (Twitter), LinkedIn, Youtube and TikTok."
+            },
+            {
+              "type": "p",
+              "text": "Accordingly, it sets out below the conditions of use governing profiles on social networks:"
+            }
+          ]
+        },
+        {
+          "heading": "Use of the profile",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "The CONTROLLER shall carry out the following actions:"
+            },
+            {
+              "type": "ul",
+              "items": [
+                "Access to the public information of the profile.",
+                "Posting on the User's profile of any information already published on the CONTROLLER's social network.",
+                "Sending personal and individual messages through the channels of the social network.",
+                "Updates to the page status, which shall be posted on the User's profile."
+              ]
+            },
+            {
+              "type": "p",
+              "text": "The User can always control their connections, remove content that is no longer of interest to them, and restrict with whom they share their connections; to do so, they must access their privacy settings."
+            }
+          ]
+        },
+        {
+          "heading": "Publications",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Once the User is a follower of, or has joined, the CONTROLLER's social network, they may post on it comments, links, images, photographs or any other type of multimedia content supported by it."
+            },
+            {
+              "type": "p",
+              "text": "In all cases, the User must be the owner of the published content, enjoy the copyright and intellectual property rights therein, or have the consent of the affected third parties."
+            },
+            {
+              "type": "p",
+              "text": "Any publication on the social network — whether texts, graphics, photographs, videos, etc. — that infringes or is likely to infringe morality, ethics, good taste or decency, and/or that infringes, violates or breaches intellectual or industrial property rights, the right to one's own image, or the Law, is expressly prohibited."
+            },
+            {
+              "type": "p",
+              "text": "In such cases, the CONTROLLER reserves the right to remove the content immediately, without prior notice, and may request the permanent blocking of the User."
+            },
+            {
+              "type": "p",
+              "text": "The CONTROLLER shall not be liable for the contents that a User has freely published."
+            },
+            {
+              "type": "p",
+              "text": "The User should bear in mind that their publications shall be known to other users, and that they are therefore primarily responsible for their privacy."
+            },
+            {
+              "type": "p",
+              "text": "Images that may be published on the social network shall not be stored in any file by the CONTROLLER, but they shall remain on the social network."
+            }
+          ]
+        },
+        {
+          "heading": "Data of minors or persons with special capacities",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "Access to and registration via the CONTROLLER's social networks is prohibited to persons under 14 years of age."
+            },
+            {
+              "type": "p",
+              "text": "Furthermore, if the User has special capacities, the intervention of the holder of their parental authority or guardianship, or of their legal representative by means of a valid document evidencing the representation, shall be necessary."
+            },
+            {
+              "type": "p",
+              "text": "The CONTROLLER shall be expressly released from any liability that may arise from the use of the social networks by minors or persons with special capacities."
+            },
+            {
+              "type": "p",
+              "text": "The CONTROLLER's social networks do not knowingly collect any personal information from minors; accordingly, if the User is a minor, they must not register on, or use, the CONTROLLER's social networks, nor provide any personal information."
+            }
+          ]
+        },
+        {
+          "heading": "Applicable law and jurisdiction",
+          "blocks": [
+            {
+              "type": "p",
+              "text": "This Legal Notice is governed in each and every one of its provisions by Spanish law, and for the resolution of all controversies or questions relating to this Website or to the activities carried out on it, the parties shall submit to the courts and tribunals of the User's domicile or the place of performance of the obligation."
+            }
+          ]
+        }
+      ]
+    }
   }
 }
