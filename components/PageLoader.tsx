@@ -5,17 +5,23 @@ import { useEffect, useState } from "react";
 
 const LOADER_DURATION = 1800;
 
+// Module-level flag: survives client-side navigations (layout remounts) but
+// resets on every full page load, so the loader only plays on first entry.
+let hasShownLoader = false;
+
 export function PageLoader() {
-  const [done, setDone] = useState(false);
+  const [done, setDone] = useState(() => hasShownLoader);
 
   useEffect(() => {
+    if (done) return;
+    hasShownLoader = true;
     if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) {
       setDone(true);
       return;
     }
     const timer = setTimeout(() => setDone(true), LOADER_DURATION);
     return () => clearTimeout(timer);
-  }, []);
+  }, [done]);
 
   if (done) return null;
 
