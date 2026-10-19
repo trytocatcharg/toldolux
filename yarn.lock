@@ -2901,7 +2901,7 @@ __metadata:
     postcss: "npm:8.4.49"
     react: "npm:18.3.1"
     react-dom: "npm:18.3.1"
-    react-image-gallery: "npm:1.2.12"
+    react-image-gallery: "npm:1.4.0"
     tailwind-merge: "npm:2.5.2"
     tailwindcss: "npm:3.4.19"
     typescript: "npm:5.8.3"
@@ -3430,12 +3430,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-image-gallery@npm:1.2.12":
-  version: 1.2.12
-  resolution: "react-image-gallery@npm:1.2.12"
+"react-image-gallery@npm:1.4.0":
+  version: 1.4.0
+  resolution: "react-image-gallery@npm:1.4.0"
   peerDependencies:
-    react: ^16.0.0 || ^17.0.0 || ^18.0.0
-  checksum: 10c0/720bc3a7510f654b431b419b68c2c58258ee2bdf1ca8aee51e52348fee4ba3185b4e1b9301aae44764f718242b14ab942d06b981026a9d655fdd49299e0f3f1f
+    react: ^16.0.0 || ^17.0.0 || ^18.0.0 || ^19.0.0
+  checksum: 10c0/0b30dcbc3be2d783021bdffda30719df106e002626789f481065e5f7296e9cd265d0e7e5b761ca9eca3ef20a33c36635f6ce31a6c263a2e4db51f59bc45005fa
   languageName: node
   linkType: hard
 
